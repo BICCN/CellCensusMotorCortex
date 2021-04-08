@@ -1,9 +1,9 @@
 # CellCensusMotorCortex
 Resources associated with "A multimodal cell census and atlas of the mammalian primary motor cortex"
 
-Figure list
+## Figure list
 
-[Figure 2](#Figure2)
+[Figure 2](#figure-2-mop-consensus-cell-type-taxonomy)
 
 
 ## Figure 2: MOp consensus cell type taxonomy
