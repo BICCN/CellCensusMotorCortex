@@ -12,9 +12,9 @@ We report the generation of a multimodal cell census and atlas of the mammalian 
 ## Figure list
 Data and supporting codes related to analysis in figures.
 
-[Figure 2: MOp consensus cell type taxonomy](#figure-2-mop-consensus-cell-type-taxonomy)
+1. [Figure 2: MOp consensus cell type taxonomy](#figure-2-mop-consensus-cell-type-taxonomy)
 
-[Figure 3: In situ cell-type identification, spatial mapping and projection mapping of individual cells in the MOp by MERFISH] 
+2. [Figure 3: In situ cell-type identification, spatial mapping and projection mapping of individual cells in the MOp by MERFISH] 
 
 [Figure 4: Figure 4. Correspondence between transcriptomic and morpho-electrical properties of mouse MOp neurons by Patch-seq, and cross-species comparison of L5 ET neurons] 
 
