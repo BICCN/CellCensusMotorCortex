@@ -1,4 +1,5 @@
-# CellCensusMotorCortex
+# A multimodal cell census and atlas of the mammalian primary motor cortex
+
 **Resources associated with "A multimodal cell census and atlas of the mammalian primary motor cortex**"
 
 ## Abstract
