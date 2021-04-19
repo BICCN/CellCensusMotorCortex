@@ -41,7 +41,7 @@ Technique and methods references
 [Single cell mRNA sequencing](https://www.nature.com/articles/s41586-018-0654-5/)
 [Single nucleus mRNA sequencing](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2)
 
-     (https://www.biorxiv.org/content/10.1101/2020.03.30.015214v1)
+   
 
 ## Figure 2: MOp consensus cell type taxonomy
 
@@ -70,6 +70,9 @@ Extended Data Figure 1:	http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1
 
 
 ## Figure 3: In situ cell type identification spatial mapping and projection mapping of individual cells in the MOp by MERFISH)
+
+#### High-resolution primary data	
+[MERFISH raw data and processed data](https://download.brainimagelibrary.org/02/26/02265ddb0dae51de/)
 
 ## Figure 4: Correspondence between transcriptomic and morpho-electrical properties of mouse MOp neurons by Patch-seq, and cross-species comparison of L5 ET neurons
 
