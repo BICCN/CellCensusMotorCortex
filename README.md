@@ -61,6 +61,5 @@ Extended Data Figure 1:	http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1
 
 
 
-## Figure 3: in situ cell type identification spatial mapping and projection mapping of individual cells in the MOp by MERFISH
-
+## figure 3 in situ cell type identification spatial mapping and projection mapping of individual cells in the MOp by MERFISH)
 
