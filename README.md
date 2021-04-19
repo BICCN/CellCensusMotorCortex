@@ -22,7 +22,7 @@ Data and supporting codes related to analyses in figures.
 
 5. [Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets.] 
 
-6. [Figure 6: Figure 6. Genetic tools for targeting cortical glutamatergic projection neuron types.]
+6. [Figure 6: Genetic tools for targeting cortical glutamatergic projection neuron types.]
 
 7. [Figure 7: Global wiring diagram and anatomical characterization of MOp-ul neuron types.] 
 
@@ -32,7 +32,7 @@ Data and supporting codes related to analyses in figures.
 
 10. [Figure 10: An integrated multimodal census and atlas of cell types in the primary motor cortex of mouse, marmoset and human.]
 
-11. [Figure 11: Test] {#figure-4-test}
+ 
 
 
 
@@ -63,7 +63,19 @@ Extended Data Figure 1:	http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1
 
 
 
-## figure 3 in situ cell type identification spatial mapping and projection mapping of individual cells in the MOp by MERFISH)
+## Figure 3: In situ cell type identification spatial mapping and projection mapping of individual cells in the MOp by MERFISH)
 
-## figure 4 test
+## Figure 4: Correspondence between transcriptomic and morpho-electrical properties of mouse MOp neurons by Patch-seq, and cross-species comparison of L5 ET neurons
+
+## Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets
+
+## Figure 6: Genetic tools for targeting cortical glutamatergic projection neuron types
+
+## Figure 7: Global wiring diagram and anatomical characterization of MOp-ul neuron types
+
+## Figure 8: Existence of L4 excitatory neurons in MOp
+
+## Figure 9: Two distinct L5 ET projection neuron types in MOp
+
+## Figure 10: An integrated multimodal census and atlas of cell types in the primary motor cortex of mouse, marmoset and human
 
