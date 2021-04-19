@@ -1,7 +1,7 @@
 # A multimodal cell census and atlas of the mammalian primary motor cortex
 ## BRAIN Initiative Cell Census Network (BICCN)
 
-![https://github.com/BICCN/CellCensusMotorCortex/issues/1#issue-861727797] https://github.com/BICCN/CellCensusMotorCortex/issues/1#issue-861727797
+![GitHub Logo] (https://github.com/BICCN/CellCensusMotorCortex/issues/1#issue-861727797)
 
 **Resources associated with "A multimodal cell census and atlas of the mammalian primary motor cortex", *Nature*, August 10, 2021**
 
