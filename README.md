@@ -11,17 +11,17 @@ We report the generation of a multimodal cell census and atlas of the mammalian 
 
 [Figure 3: In situ cell-type identification, spatial mapping and projection mapping of individual cells in the MOp by MERFISH] 
 
-[Figure 4: MOp consensus cell type taxonomy](#figure-2-mop-consensus-cell-type-taxonomy)
+[Figure 4: Figure 4. Correspondence between transcriptomic and morpho-electrical properties of mouse MOp neurons by Patch-seq, and cross-species comparison of L5 ET neurons] 
 
-[Figure 5: MOp consensus cell type taxonomy](#figure-2-mop-consensus-cell-type-taxonomy)
+[Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets] 
 
-[Figure 6: MOp consensus cell type taxonomy](#figure-2-mop-consensus-cell-type-taxonomy)
+[Figure 6: Figure 6. Genetic tools for targeting cortical glutamatergic projection neuron types] 
 
-[Figure 7: MOp consensus cell type taxonomy](#figure-2-mop-consensus-cell-type-taxonomy)
+[Figure 7: Global wiring diagram and anatomical characterization of MOp-ul neuron types] 
 
-[Figure 8: MOp consensus cell type taxonomy](#figure-2-mop-consensus-cell-type-taxonomy)
+[Figure 8: Existence of L4 excitatory neurons in MOp] 
 
-[Figure 9: MOp consensus cell type taxonomy](#figure-2-mop-consensus-cell-type-taxonomy)
+[Figure 9: Two distinct L5 ET projection neuron types in MOp] 
 
 
 
