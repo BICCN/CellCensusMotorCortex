@@ -48,10 +48,10 @@ Panels b-g:
 	
 ### Intermediate analysis and code for main figure			
 Panel a:	https://github.com/mukamel-lab/BICCN-Mouse-MOp/tree/master/flagship_fig2a		
-Panel b:	dendrogram from companion paper (Bakken et al. 2020)		
+Panel b:	Dendrogram is from companion paper (Bakken et al. 2020)		
 Panel c:	http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/dendrogram_barplot
 Panels d, e:	http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/dendrogram_heatmap
-Panels f, g:	from companion paper (Bakken et al. 2020)		
+Panels f, g:	From companion paper (Bakken et al. 2020)		
 Panel h:	http://data.nemoarchive.org/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/cross_species_heatmap/GABAergic_avg_CP100K_expr.csv.gz
 Panel i:	Custom UCSC browser of all M1 tracks	https://genome.ucsc.edu/s/sarojas/hg38-mop-dense	
 
