@@ -54,7 +54,7 @@ Panels b-g:
 - [10x V3 marmoset (bi005_m1, bi006_m1)](http://data.nemoarchive.org/biccn/lab/feng/transcriptome/sncell/raw/)
 - [10x V3 mouse broad data (files with prefix pBICCNsMMrMOp)](http://data.nemoarchive.org/biccn/grant/huang/macosko/transcriptome/sncell/raw)
 	
-### Intermediate analysis and code for main figure			
+#### Intermediate analysis and code for main figure			
 Panel a:	https://github.com/mukamel-lab/BICCN-Mouse-MOp/tree/master/flagship_fig2a		
 Panel b:	Dendrogram is from companion paper (Bakken et al. 2020)		
 Panel c:	http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/dendrogram_barplot
@@ -73,6 +73,12 @@ Extended Data Figure 1:	http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1
 
 #### High-resolution primary data	
 [MERFISH raw data and processed data](https://download.brainimagelibrary.org/02/26/02265ddb0dae51de/)
+
+
+#### Intermediate analysis and code for main figure	
+[MERFISH data processing pipeline](https://github.com/ZhuangLab/MERlin)
+
+[Panel b](https://github.com/ZhuangLab/BICCN_MOp_2021/tree/main/flagship)
 
 ## Figure 4: Correspondence between transcriptomic and morpho-electrical properties of mouse MOp neurons by Patch-seq, and cross-species comparison of L5 ET neurons
 
