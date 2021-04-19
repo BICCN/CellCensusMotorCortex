@@ -10,6 +10,7 @@ We report the generation of a multimodal cell census and atlas of the mammalian 
 
 
 ## Figure list
+Data and supporting codes related to analysis in figures.
 
 [Figure 2: MOp consensus cell type taxonomy](#figure-2-mop-consensus-cell-type-taxonomy)
 
