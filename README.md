@@ -32,6 +32,8 @@ Data and supporting codes related to analyses in figures.
 
 10. [Figure 10: An integrated multimodal census and atlas of cell types in the primary motor cortex of mouse, marmoset and human.]
 
+11. [Figure 11: Test] {#figure-4-test}
+
 
 
 
@@ -62,4 +64,6 @@ Extended Data Figure 1:	http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1
 
 
 ## figure 3 in situ cell type identification spatial mapping and projection mapping of individual cells in the MOp by MERFISH)
+
+## figure 4 test
 
