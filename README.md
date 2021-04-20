@@ -1,7 +1,7 @@
 # A multimodal cell census and atlas of the mammalian primary motor cortex
 ## BRAIN Initiative Cell Census Network (BICCN)
 
-![[https://user-images.githubusercontent.com/39201252/115289683-b517a200-a107-11eb-977e-bf7a557c826a.png|alt=c826a]]
+![https://user-images.githubusercontent.com/39201252/115289683-b517a200-a107-11eb-977e-bf7a557c826a.png|alt=c826a]
 
 **Resources associated with "A multimodal cell census and atlas of the mammalian primary motor cortex", *Nature*, August 10, 2021**
 
@@ -22,7 +22,7 @@ Data and supporting codes related to analyses in figures.
 
 5. [Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets.](#figure-5-Epi-Retro-Seq-links-molecular-cell-types-with-distal-projection-targets) 
 
-6. [Figure 6: Genetic tools for targeting cortical glutamatergic projection neuron types.]
+6. [Figure 6: Genetic tools for targeting cortical glutamatergic projection neuron types.](#figure-6-Genetic-tools-for-targeting-cortical-glutamatergic-projection-neuron-types)
 
 7. [Figure 7: Global wiring diagram and anatomical characterization of MOp-ul neuron types.] 
 
