@@ -225,12 +225,6 @@ panel c	https://github.com/AllenInstitute/MOp_anatomy_rendering	code to reproduc
 
 ### Figure 10: An integrated multimodal census and atlas of cell types in the primary motor cortex of mouse, marmoset and human
 
-#### High-resolution primary data			
-Transcription	Single cell mRNA sequencing scRNA-Seq: SMART-Seq v4, 10x Chromium v2, v3 (Tasic et al. 2018; Yao et al. 2020; Yao et al. 2020)
-
-DNA methylation	Single-nucleus methylcytosine sequencing 2	snmC-Seq2	(Luo et al. 2018; Liu et al. 2020; Bakken et al. 2020; Ecker et al. 2020)
-
-Open chromatin	Single nucleus Assay for Transposase- Accessible Chromatin	snATAC-Seq	(Preissl et al. 2018; Li et al. 2020; Cusanovich et al. 2015; Ecker et al. 2020)
 						
 			
 #### Analysis and code for main figure			
@@ -239,5 +233,6 @@ https://github.com/yal054/snATACutils
 					
 			
 #### Extended or supplementary data figures			
-https://github.com/yal054/snATACutils			
+https://github.com/yal054/snATACutils	
+
 https://github.com/lhqing/flagship_tf_figure (code and data for Extended data figure 3)			
