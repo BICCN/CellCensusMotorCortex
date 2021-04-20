@@ -131,11 +131,14 @@ Panels i-k:
 								
 								
 								
-#### Analysis and code for main figure								
-panel h:	10x 4 species integration	http://data.nemoarchive.org/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/cross_species_integration/sample.combined_exc_4_species_integration.RDS						
-panel h:	Code:	http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/projecting_patch_seq_onto_umap						
-								
-panel a-g	Code	https://github.com/berenslab/mini-atlas/blob/master/code/flagship-figure.ipynb						
+#### Analysis and code for main figure			
+
+Panel h:	
+- [10x 4 species integration](http://data.nemoarchive.org/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/cross_species_integration/sample.combined_exc_4_species_integration.RDS)						
+-[Code](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/projecting_patch_seq_onto_umap)						
+panels a-g	
+
+-[Code](https://github.com/berenslab/mini-atlas/blob/master/code/flagship-figure.ipynb)						
 
 
 ### Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets
