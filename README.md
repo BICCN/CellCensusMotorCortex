@@ -38,11 +38,16 @@ Data and supporting codes related to analyses in figures.
 
 Technique and methods references
 
-[Single cell mRNA sequencing](https://www.nature.com/articles/s41586-018-0654-5/)
+#### Single cell mRNA sequencing
+[Tasic et al, 2018](https://www.nature.com/articles/s41586-018-0654-5/)
 
-[Single nucleus mRNA sequencing](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2)
+[Yao et al, 2020](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2)
 
-   
+#### Single nucleus mRNA sequencing
+
+[Bakken et al, 2020](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v1)
+
+[Hodge et al, 2019](https://www.nature.com/articles/s41586-019-1506-7)
 
 ## Figure 2: MOp consensus cell type taxonomy
 
@@ -58,20 +63,20 @@ Panels 2b-2g:
 #### Intermediate analysis and code for main figure			
 [Panel 2a](https://github.com/mukamel-lab/BICCN-Mouse-MOp/tree/master/flagship_fig2a)	
 
-Panel 2b:	Dendrogram is from companion paper (Bakken et al. 2020)		
+Panel 2b:	Dendrogram reproduced from companion paper (Bakken et al. 2020)		
 
 [Panel 2c](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/dendrogram_barplot)
 
 [Panels 2d, 2](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/dendrogram_heatmap)
 
-Panels 2f, 2g:	From companion paper (Bakken et al. 2020)
+Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 
 [Panel 2h](http://data.nemoarchive.org/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/cross_species_heatmap/GABAergic_avg_CP100K_expr.csv.gz)
 
 [Panel 2i: Custom UCSC browser of all M1 tracks](https://genome.ucsc.edu/s/sarojas/hg38-mop-dense)	
 
 #### Analysis and code for extended or supplementary data figures			
-[Panel 2j:Browser](https://brainome.ucsd.edu/annoj/BICCN_MOp/)		
+[Panel 2j: Browser](https://brainome.ucsd.edu/annoj/BICCN_MOp/)		
 
 [Extended Data Figure 1](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/cluster_overlap_plots)		
 
