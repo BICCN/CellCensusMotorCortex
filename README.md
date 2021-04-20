@@ -48,6 +48,8 @@ Data and supporting codes related to analyses in figures.
 
 
 #### Companion manuscripts
+A series of companion studies supported the findings in this manuscript
+
 [Yao et al, 2020](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2)
 
 #### Single nucleus mRNA sequencing
@@ -65,7 +67,7 @@ Data and supporting codes related to analyses in figures.
 - [BIL](https://www.brainimagelibrary.org/dataset)
 
 #### Distributed Archives for Neurophysiology Data Integration
-[DANDI](https://www.dandiarchive.org) 
+- [DANDI](https://www.dandiarchive.org) 
 
 #### Atlas of Cis-elements gene regulatory elements 
 - [CATlas](http://catlas.org/mousebrain/)
