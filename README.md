@@ -63,7 +63,7 @@ Panels 2b-2g:
 - [10x V3 marmoset (bi005_m1, bi006_m1)](http://data.nemoarchive.org/biccn/lab/feng/transcriptome/sncell/raw/)
 - [10x V3 mouse broad data (files with prefix pBICCNsMMrMOp)](http://data.nemoarchive.org/biccn/grant/huang/macosko/transcriptome/sncell/raw)
 	
-#### Intermediate analysis and code for main figure			
+#### Analysis and code for main figure			
 [Panel 2a](https://github.com/mukamel-lab/BICCN-Mouse-MOp/tree/master/flagship_fig2a)	
 
 Panel 2b:	Dendrogram reproduced from companion paper (Bakken et al. 2020)		
@@ -78,7 +78,7 @@ Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 
 [Panel 2i: Custom UCSC browser of all M1 tracks](https://genome.ucsc.edu/s/sarojas/hg38-mop-dense)	
 
-#### Analysis and code for extended or supplementary data figures			
+#### Extended or supplementary data figures			
 [Panel 2j: Browser](https://brainome.ucsd.edu/annoj/BICCN_MOp/)		
 
 [Extended Data Figure 1](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/cluster_overlap_plots)		
@@ -91,7 +91,7 @@ Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 [MERFISH raw data and processed data](https://download.brainimagelibrary.org/02/26/02265ddb0dae51de/)
 
 
-#### Intermediate analysis and code for main figure	
+#### Analysis and code for main figure	
 [MERFISH data processing pipeline](https://github.com/ZhuangLab/MERlin)
 
 [Panel 3b](https://github.com/ZhuangLab/BICCN_MOp_2021/tree/main/flagship)
@@ -113,7 +113,7 @@ panel b-g	raw data:	morphological reconstructions in SWC format	https://download
 								
 								
 								
-#### Intermediate analysis and code for main figure								
+#### Analysis and code for main figure								
 panel h:	10x 4 species integration	http://data.nemoarchive.org/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/cross_species_integration/sample.combined_exc_4_species_integration.RDS						
 panel h:	Code:	http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/projecting_patch_seq_onto_umap						
 								
@@ -122,16 +122,17 @@ panel a-g	Code	https://github.com/berenslab/mini-atlas/blob/master/code/flagship
 
 ### Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets
 
-Class 1: High-resolution primary data									
+#### High-resolution primary data									
 Epi-Retro-Seq raw data and processed data:				http://data.nemoarchive.org/biccn/grant/cemba/cemba/epigenome/sncell/mCseq_retro/mouse/					
 				https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE150170					
 									
-Class 2: Intermediate analysis and code for main figure				
+#### Analysis and code for main figure				
 https://github.com/zhoujt1994/BICCN2020Flagship.git				
 
 
 ### Figure 6: Genetic tools for targeting cortical glutamatergic projection neuron types
-Class 1: High-resolution primary data					
+
+#### High-resolution primary data					
 					
 Panel c					
 Label in Fig	Full Descriptive ID	Induction date 	Harvest date 	Tamoxifen dose 	Originating Lab
@@ -198,51 +199,41 @@ PlxnD1	PlxnD1-CreER;LSL-Flp	180730	Huang	http://brainarchitecture.org/viewer4/mo
 Tle4	Tle4-CreER;LSL-Flp	180605	Huang	http://brainarchitecture.org/viewer4/mouse/map/28814F
 Tle4	Tle4-CreER;LSL-Flp	180816	Huang	http://brainarchitecture.org/viewer4/mouse/map/8421F
 				
-Class 2: Intermediate analysis and code for main figure				
+#### Analysis and code for main figure				
 panel c	https://github.com/AllenInstitute/MOp_anatomy_rendering	code to reproduce rendering of registered data in 3D		
 				
 				
 
 
 ### Figure 8: Existence of L4 excitatory neurons in MOp
-			
+								
+					
+#### Analysis and code for main figure					
+[Panels 8a,c,e](https://github.com/mukamel-lab/BICCN-Mouse-MOp/tree/master/flagship_fig8)				
+[Panel 8b](https://brainome.ucsd.edu/annoj/BICCN_MOp/)				
 					
 					
-Class 2: Intermediate analysis and code for main figure					
-Fig8a,c,e	https://github.com/mukamel-lab/BICCN-Mouse-MOp/tree/master/flagship_fig8				
-Fig8b	https://brainome.ucsd.edu/annoj/BICCN_MOp/				
-					
-					
-
 ### Figure 9: Two distinct L5 ET projection neuron types in MOp
 					
+#### Analysis and code for main figure						 				
+[Panel 9d](https://brainome.ucsd.edu/annoj/BICCN_MOp/)				
+[Panel 9e](https://github.com/zhoujt1994/BICCN2020Flagship.git)				
 					
 					
-Class 2: Intermediate analysis and code for main figure					
-Fig 9d	https://brainome.ucsd.edu/annoj/BICCN_MOp/				
-Fig 9e	https://github.com/zhoujt1994/BICCN2020Flagship.git				
-					
-					
-
 
 ### Figure 10: An integrated multimodal census and atlas of cell types in the primary motor cortex of mouse, marmoset and human
 
-Class 1: High-resolution primary data			
+#### High-resolution primary data			
 Transcription	Single cell mRNA sequencing	scRNA-Seq: SMART-Seq v4, 10x Chromium v2, v3	(Tasic et al. 2018; Yao et al. 2020; Yao et al. 2020)
 DNA methylation	Single-nucleus methylcytosine sequencing 2	snmC-Seq2	(Luo et al. 2018; Liu et al. 2020; Bakken et al. 2020; Ecker et al. 2020)
 Open chromatin	Single nucleus Assay for Transposase- Accessible Chromatin	snATAC-Seq	(Preissl et al. 2018; Li et al. 2020; Cusanovich et al. 2015; Ecker et al. 2020)
+						
 			
-			
-			
-			
-			
-Class 2: Intermediate analysis and code for main figure			
+#### Analysis and code for main figure			
 https://github.com/yal054/snATACutils			
 			
+					
 			
-			
-			
-			
-Class 3 Analysis and code for extended or supplementary data figures			
+#### Extended or supplementary data figures			
 https://github.com/yal054/snATACutils			
 https://github.com/lhqing/flagship_tf_figure (code and data for Extended data figure 3)			
