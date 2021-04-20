@@ -49,6 +49,9 @@ Technique and methods references
 
 [Hodge et al, 2019](https://www.nature.com/articles/s41586-019-1506-7)
 
+#### Neuroscinece Multi-omic Data Archive (NeMO)for primary transcriptomics and epigenomics data in this study
+[NeMO Archive](https://assets.nemoarchive.org/dat-ch1nqb7)
+
 ### Figure 2: MOp consensus cell type taxonomy
 
 #### High-resolution primary data			
