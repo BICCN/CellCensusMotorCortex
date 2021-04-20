@@ -21,13 +21,13 @@ www.biccn.org
 #### Neuroscience Multi-omic Data Archive (NeMO) 
 [Primary transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
 
-#### Cis-elements Atlas 
+#### Atlas of Cis-elements gene regulatory elements 
 [CATlas](http://catlas.org/mousebrain/)
 
-#### LIGER github page 
+#### LIGER - integrating multiple single cell datasets 
 [LIGER](https://github.com/welch-lab/liger)
 
-### Neuromorpho - inventory digital reconstructed neurons
+#### Neuromorpho - Inventory of digital reconstructed neurons
 [Neuromorpho](www.neuromorpho.org)
 
 
