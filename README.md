@@ -145,10 +145,10 @@ Panels a-g:
 
 [Epi-Retro-Seq raw data](http://data.nemoarchive.org/biccn/grant/cemba/cemba/epigenome/sncell/mCseq_retro/mouse/)	
 
-[Processed data](https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE150170)					
+[Gene Expression Omnibus data](https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE150170)					
 									
 #### Analysis and code for main figure				
-https://github.com/zhoujt1994/BICCN2020Flagship.git				
+[Code](https://github.com/zhoujt1994/BICCN2020Flagship.git)				
 
 
 ### Figure 6: Genetic tools for targeting cortical glutamatergic projection neuron types
