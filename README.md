@@ -122,13 +122,127 @@ panel a-g	Code	https://github.com/berenslab/mini-atlas/blob/master/code/flagship
 
 ### Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets
 
+Class 1: High-resolution primary data									
+Epi-Retro-Seq raw data and processed data:				http://data.nemoarchive.org/biccn/grant/cemba/cemba/epigenome/sncell/mCseq_retro/mouse/					
+				https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE150170					
+									
+Class 2: Intermediate analysis and code for main figure				
+https://github.com/zhoujt1994/BICCN2020Flagship.git				
+
+
 ### Figure 6: Genetic tools for targeting cortical glutamatergic projection neuron types
+Class 1: High-resolution primary data					
+					
+Panel c					
+Label in Fig	Full Descriptive ID	Induction date 	Harvest date 	Tamoxifen dose 	Originating Lab
+Lhx2	Lhx2-CreER; Ai14	E12.5	E13.5	2 mg/kg body weight	Huang
+Lhx2	Lhx2-CreER; Ai14	E12.5	P30	100 mg/kg body weight	Huang
+Fezf2	Fezf2-CreER; Ai14	E12.5	E13.5	2 mg/kg body weight	Huang
+Fezf2	Fezf2-CreER; Ai14	E12.5	P30	2 mg/kg body weight	Huang
+					
+Panels d-k					
+Label in Fig	Full Descriptive ID	experiment id	Originating Lab	Link to Brain Architecture viewer	BIL link
+PlxnD1	PlxnD1-CreER;LSL-Flp	180722	Huang	http://brainarchitecture.org/viewer4/mouse/map/8401F	https://download.brainimagelibrary.org/84/aa/84aa97d12a6c17ba/180722_WG_PlxnD1lslFlpCFA1female_processed/
+PlxnD1	PlxnD1-CreER;LSL-Flp	180730	Huang	http://brainarchitecture.org/viewer4/mouse/map/28819F	https://download.brainimagelibrary.org/e9/2a/e92aa2dc0e14ad4d/180730_WG010_PlxnD1_CFA_female_processed/
+Fezf2	Fezf2-CreER;LSL-Flp	180830	Huang	http://brainarchitecture.org/viewer4/mouse/map/28827F	https://download.brainimagelibrary.org/db/b8/dbb827c84942c557/180830_JH_WG_Fezf2LSLflp_CFA_female/
+Fezf2	Fezf2-CreER;LSL-Flp	190903	Huang	http://brainarchitecture.org/viewer4/mouse/map/28917F	https://download.brainimagelibrary.org/2b/6e/2b6e48dc425d16db/190903_JH_WG0006_Fezf2LSLflp_MOp_CFA_female_processed/
+Tle4	Tle4-CreER;LSL-Flp	180605	Huang	http://brainarchitecture.org/viewer4/mouse/map/28814F	https://download.brainimagelibrary.org/84/aa/84aa97d12a6c17ba/180605_WG_Tle4lslFlpRPCFA_female_processed/
+Tle4	Tle4-CreER;LSL-Flp	180816	Huang	http://brainarchitecture.org/viewer4/mouse/map/8421F	https://download.brainimagelibrary.org/c8/1f/c81fe306a97b33e8/180816_JH_WG_Tle4LSLFlpNPCfa_female/
+Foxp2	Foxp2-Cre	190915	Huang	http://braincircuits.org/viewer4/mouse/map/29158F	this is undergoing validation
+Foxp2	Foxp2-Cre	191209	Huang	http://braincircuits.org/viewer4/mouse/map/29159F	https://download.brainimagelibrary.org/81/bc/81bcaddee6e8ac06/191209_JH_KM_FoxP2-ires-cre_CFA_male2_processed/
+					
+Panel j					
+Label in Fig	Full Descriptive ID	experiment id	Originating Lab	Link to Brain Architecture viewer	BIL link
+PlxnD1-Tbr2	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5	GK01	Huang	TBD	TBD
+PlxnD1-Tbr2	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5	GK02	Huang	TBD	TBD
+PlxnD1-Tbr2	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5	GK03	Huang	TBD	TBD
+PlxnD1-Tbr2	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5	GK04	Huang	TBD	TBD
+PlxnD1-Tbr2	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5	GK05	Huang	TBD	TBD
+PlxnD1-Tbr2	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5	GK11	Huang	TBD	TBD
+PlxnD1-Tbr2	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5	GK12	Huang	TBD	TBD
+PlxnD1-Tbr2	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5	GK13	Huang	TBD	TBD
+PlxnD1-Tbr2	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5	GK14	Huang	TBD	TBD
+PlxnD1-Tbr2	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5	GK15	Huang	TBD	TBD
+					
+
 
 ### Figure 7: Global wiring diagram and anatomical characterization of MOp-ul neuron types
+panel a	Hongwei 			
+				
+panel b	Pavel			
+				
+panel c	Julie			
+Label in Fig	Full Descriptive ID	experiment id	Originating Lab	Link to registered swc (single cells) or 25 um grid file (tracer)
+Rabies	Tlx3-660759241	660759241	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
+AAV	C57BL/6J-127084296	127084296	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
+Cux2 L2/3/4 IT	Cux2-IRES-Cre-947242021	947242021	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
+Nr5a1 L4 IT	Nr5a1-Cre-882407664	882407664	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
+Tlx3 L5 IT	Tlx3-Cre_PL56-880719308	880719308	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
+Rbp4 L5 IT+ET	Rbp4-Cre_KL100-948130129	948130129	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
+Sim1 L5 ET	Sim1-Cre_KJ18-297711339	297711339	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
+Ntsr1 L6 CT	Ntsr1-Cre_GN220-159651060	159651060	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
+IT projections	L2/3_Cux2-CreERT2-18453_3456_x24161_y6646	18453_3456_x24161_y6646	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/
+IT projections	L4_Cux2-CreERT2-18864_3338_x3396_y21865	18864_3338_x3396_y21865	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/
+IT projections	L5_AA0271 [A]	AA0271 [A]	MouseLight	http://ml-neuronbrowser.janelia.org/
+ET projections	L5_+MY+TH_Fezf2-CreERT2-182725_3762_x5563_y19178	182725_3762_x5563_y19178	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/
+ET projections	L5_no MY_Fezf2-CreERT2_182725_4080_x6576_y11407	182725_4080_x6576_y11407	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/
+CT projections	L6_AA0649 [A]	AA0649 [A]	MouseLight	http://ml-neuronbrowser.janelia.org/
+CT projections	L6_AA0898 [A]	AA0898 [A]	MouseLight	http://ml-neuronbrowser.janelia.org/
+				
+panel d	Hongwei 			
+				
+Panels d-i				
+Label in Fig	Full Descriptive ID	experiment id	Originating Lab	Link to Brain Architecture viewer
+PlxnD1	PlxnD1-CreER;LSL-Flp	180722	Huang	http://brainarchitecture.org/viewer4/mouse/map/8401F
+PlxnD1	PlxnD1-CreER;LSL-Flp	180730	Huang	http://brainarchitecture.org/viewer4/mouse/map/28819F
+Tle4	Tle4-CreER;LSL-Flp	180605	Huang	http://brainarchitecture.org/viewer4/mouse/map/28814F
+Tle4	Tle4-CreER;LSL-Flp	180816	Huang	http://brainarchitecture.org/viewer4/mouse/map/8421F
+				
+Class 2: Intermediate analysis and code for main figure				
+panel c	https://github.com/AllenInstitute/MOp_anatomy_rendering	code to reproduce rendering of registered data in 3D		
+				
+				
+
 
 ### Figure 8: Existence of L4 excitatory neurons in MOp
+			
+					
+					
+Class 2: Intermediate analysis and code for main figure					
+Fig8a,c,e	https://github.com/mukamel-lab/BICCN-Mouse-MOp/tree/master/flagship_fig8				
+Fig8b	https://brainome.ucsd.edu/annoj/BICCN_MOp/				
+					
+					
 
 ### Figure 9: Two distinct L5 ET projection neuron types in MOp
+					
+					
+					
+Class 2: Intermediate analysis and code for main figure					
+Fig 9d	https://brainome.ucsd.edu/annoj/BICCN_MOp/				
+Fig 9e	https://github.com/zhoujt1994/BICCN2020Flagship.git				
+					
+					
+
 
 ### Figure 10: An integrated multimodal census and atlas of cell types in the primary motor cortex of mouse, marmoset and human
 
+Class 1: High-resolution primary data			
+Transcription	Single cell mRNA sequencing	scRNA-Seq: SMART-Seq v4, 10x Chromium v2, v3	(Tasic et al. 2018; Yao et al. 2020; Yao et al. 2020)
+DNA methylation	Single-nucleus methylcytosine sequencing 2	snmC-Seq2	(Luo et al. 2018; Liu et al. 2020; Bakken et al. 2020; Ecker et al. 2020)
+Open chromatin	Single nucleus Assay for Transposase- Accessible Chromatin	snATAC-Seq	(Preissl et al. 2018; Li et al. 2020; Cusanovich et al. 2015; Ecker et al. 2020)
+			
+			
+			
+			
+			
+Class 2: Intermediate analysis and code for main figure			
+https://github.com/yal054/snATACutils			
+			
+			
+			
+			
+			
+Class 3 Analysis and code for extended or supplementary data figures			
+https://github.com/yal054/snATACutils			
+https://github.com/lhqing/flagship_tf_figure (code and data for Extended data figure 3)			
