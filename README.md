@@ -65,7 +65,7 @@ A series of companion studies supported the findings in this manuscript.
 - Brain Image Library [BIL](https://www.brainimagelibrary.org), [Imaging data used in this study](https://www.brainimagelibrary.org/dataset)
 - Distributed Archives for Neurophysiology Data Integration [DANDI](https://www.dandiarchive.org) 
 
-### Key Resources
+### Other Key Resources
 
 #### Atlas of Cis-elements gene regulatory elements 
 - [CATlas](http://catlas.org/mousebrain/)
