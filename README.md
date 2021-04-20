@@ -128,17 +128,16 @@ Panels i-k:
 - [Electrophophysiology in NWB format](https://dandiarchive.org/dandiset/000043/draft)					
 - [Morphological reconstructions in SWC format](https://download.brainimagelibrary.org/79/1d/791d4ad4b5663855/)					
 
-								
-								
+														
 								
 #### Analysis and code for main figure			
 
 Panel h:	
 - [10x 4 species integration](http://data.nemoarchive.org/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/cross_species_integration/sample.combined_exc_4_species_integration.RDS)						
--[Code](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/projecting_patch_seq_onto_umap)						
-panels a-g	
+- [Code](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/projecting_patch_seq_onto_umap)						
+Panels a-g:	
 
--[Code](https://github.com/berenslab/mini-atlas/blob/master/code/flagship-figure.ipynb)						
+- [Code](https://github.com/berenslab/mini-atlas/blob/master/code/flagship-figure.ipynb)						
 
 
 ### Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets
