@@ -49,8 +49,8 @@ Technique and methods references
 
 [Hodge et al, 2019](https://www.nature.com/articles/s41586-019-1506-7)
 
-#### Neuroscinece Multi-omic Data Archive (NeMO)for primary transcriptomics and epigenomics data in this study
-[NeMO Archive](https://assets.nemoarchive.org/dat-ch1nqb7)
+#### Neuroscience Multi-omic Data Archive (NeMO) 
+[Primary transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
 
 ### Figure 2: MOp consensus cell type taxonomy
 
@@ -97,6 +97,28 @@ Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 [Panel 3b](https://github.com/ZhuangLab/BICCN_MOp_2021/tree/main/flagship)
 
 ### Figure 4: Correspondence between transcriptomic and morpho-electrical properties of mouse MOp neurons by Patch-seq, and cross-species comparison of L5 ET neurons
+
+#### High-resolution primary data								
+panel h:	raw data:	10x V3 macaque	http://data.nemoarchive.org/biccn/lab/lein/lein/transcriptomic/sncell/raw/					
+		10x V3 human (10X159-1 through 10x160-8)	http://data.nemoarchive.org/biccn/lab/linnarsson/transcriptome/sncell/10X/raw/10X159-1/					
+		10x V3 marmoset (bi005_m1, bi006_m1)	http://data.nemoarchive.org/biccn/lab/feng/transcriptome/sncell/raw/					
+		10x V3 mouse broad data (files with prefix pBICCNsMMrMOp)	http://data.nemoarchive.org/biccn/grant/huang/macosko/transcriptome/sncell/raw					
+panel i-k:	raw data:	electrophophysiology in NWB format	https://dandiarchive.org/dandiset/000043/draft					
+		morphological reconstructions in SWC format	https://download.brainimagelibrary.org/79/1d/791d4ad4b5663855/					
+panel a	raw data:	Patch-seq mouse transcriptomic data in FASTQ format /biccn/grant/zeng/tolias	http://data.nemoarchive.org/biccn/grant/zeng/tolias/.					
+		biccn/grant/zeng/zeng/transcriptome	http://data.nemoarchive.org/biccn/grant/zeng/zeng/					
+panel b-g	raw data:	morphological reconstructions in SWC format	https://download.brainimagelibrary.org/3a/88/3a88a7687ab66069/.					
+		electrophysiological traces in NWB format	https://dandiarchive.org/dandiset/000008/					
+								
+								
+								
+								
+#### Intermediate analysis and code for main figure								
+panel h:	10x 4 species integration	http://data.nemoarchive.org/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/cross_species_integration/sample.combined_exc_4_species_integration.RDS						
+panel h:	Code:	http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/projecting_patch_seq_onto_umap						
+								
+panel a-g	Code	https://github.com/berenslab/mini-atlas/blob/master/code/flagship-figure.ipynb						
+
 
 ### Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets
 
