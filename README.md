@@ -228,11 +228,11 @@ panel c	https://github.com/AllenInstitute/MOp_anatomy_rendering	code to reproduc
 						
 			
 #### Analysis and code for main figure			
-https://github.com/yal054/snATACutils			
+[snATAC-seq Utilites](https://github.com/yal054/snATACutils)			
 			
 					
 			
 #### Extended or supplementary data figures			
-https://github.com/yal054/snATACutils	
+[snATAC-seq Utilites](https://github.com/yal054/snATACutils)	
 
-https://github.com/lhqing/flagship_tf_figure (code and data for Extended data figure 3)			
+[Extended data figure 3](https://github.com/lhqing/flagship_tf_figure) 		
