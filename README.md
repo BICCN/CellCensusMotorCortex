@@ -146,7 +146,8 @@ Panels i-k:
 #### Analysis and code for main figure			
 
 Panel h:	
-- [10x 4 species integration](http://data.nemoarchive.org/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/cross_species_integration/sample.combined_exc_4_species_integration.RDS)	- [Code](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/projecting_patch_seq_onto_umap)						
+- [10x 4 species integration](http://data.nemoarchive.org/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/cross_species_integration/sample.combined_exc_4_species_integration.RDS)
+- [Code](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/projecting_patch_seq_onto_umap)						
 Panels a-g:	
 - [Code](https://github.com/berenslab/mini-atlas/blob/master/code/flagship-figure.ipynb)						
 
