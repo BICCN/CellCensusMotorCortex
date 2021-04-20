@@ -30,6 +30,8 @@ Data and supporting codes related to analyses in figures.
 
 ## Companion Manuscripts
 
+A series of companion studies supported the findings in this manuscript.
+
 [An integrated transcriptomic and epigenomic atlas of mouse primary motor cortex cell types, Yao et al., 2020 (https://www.biorxiv.org/content/10.1101/2020.02.29.970558v2)
 
 [Evolution of cellular diversity in primary motor cortex of human, marmoset monkey, and mouse, Bakken et al., 2020](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2)
@@ -48,7 +50,7 @@ Data and supporting codes related to analyses in figures.
 
 
 #### Companion manuscripts
-A series of companion studies supported the findings in this manuscript
+
 
 [Yao et al, 2020](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2)
 
