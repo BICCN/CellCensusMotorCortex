@@ -53,12 +53,39 @@ A series of companion studies supported the findings in this manuscript.
 #### Techniques and methods 
 
 ##### Transcription 
-[Shared and distinct transcriptomic cell types across neocortical areas, Tasic et al, 2018](https://www.nature.com/articles/s41586-018-0654-5)
-[Conserved cell types with divergent features in human versus mouse cortex, Hodge et al, 2019](https://www.nature.com/articles/s41586-019-1506-7)
-[Innovations present in the primate interneuron repertoire, Krienen, 2020](https://www.nature.com/articles/s41586-020-2781-z?proof=t)
-[A transcriptomic atlas of the mouse cerebellum reveals regional specializations and novel cell types, Kozareva et al., 2020](https://www.biorxiv.org/content/10.1101/2020.03.04.976407v1)
+- [Shared and distinct transcriptomic cell types across neocortical areas, Tasic et al, 2018](https://www.nature.com/articles/s41586-018-0654-5)
+- [Conserved cell types with divergent features in human versus mouse cortex, Hodge et al, 2019](https://www.nature.com/articles/s41586-019-1506-7)
+- [Innovations present in the primate interneuron repertoire, Krienen, 2020](https://www.nature.com/articles/s41586-020-2781-z?proof=t)
+- [A transcriptomic atlas of the mouse cerebellum reveals regional specializations and novel cell types, Kozareva et al., 2020](https://www.biorxiv.org/content/10.1101/2020.03.04.976407v1)
  
-#### Single nucleus mRNA sequencing
+ ##### DNA Methylation
+- [Robust single-cell DNA methylome profiling with snmC-seq2, Luo, et al. 2018](https://www.nature.com/articles/s41467-018-06355-2)
+- [Spatiotemporal DNA methylome dynamics of the developing mouse fetus, He et al, 2018](https://www.nature.com/articles/s41586-020-2119-x)
+
+
+##### Open Chromatin
+
+##### Combined transcription/Open chromatin
+
+ 
+##### Combined transcription/Open chromatin
+
+##### Spatial transcriptomics
+
+##### Cell type statistics and validation
+
+##### Electrophysiology, cellular morphology and transcriptomics
+
+##### Cellular morphology
+
+##### Inter-areal circuit mapping
+
+##### Projection-specific profiling
+
+##### Genetic tools
+- [Genetic dissection of glutamatergic neuron subpopulations and developmental trajectories in the cerebral cortex, Matho et al,2020](www.biorxiv.org/content/10.1101/2020.04.22.054064v1)
+
+
 
 
 #### Primary Data Resources
