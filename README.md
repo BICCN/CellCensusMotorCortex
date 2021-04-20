@@ -60,8 +60,7 @@ A series of companion studies supported the findings in this manuscript.
 
 ### Primary Data Resources
 
-#### Brain Cell Data Center (BCDC)
-- www.biccn.org
+#### Brain Cell Data Center (BCDC)(www.biccn.org)
 
 #### Neuroscience Multi-omic Data Archive (NeMO) 
 - [Primary transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
