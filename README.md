@@ -9,6 +9,28 @@
 We report the generation of a multimodal cell census and atlas of the mammalian primary motor cortex (MOp or M1) as the initial product of the BRAIN Initiative Cell Census Network (BICCN). This was achieved by coordinated large-scale analyses of single-cell transcriptomes, chromatin accessibility, DNA methylomes, spatially resolved single-cell transcriptomes, morphological and electrophysiological properties, and cellular resolution input-output mapping, integrated through cross-modal computational analysis. The study reveals a unified molecular genetic landscape of cortical cell types that congruently integrates their transcriptome, open chromatin and DNA methylation maps. Second, cross-species analysis achieves a unified taxonomy of transcriptomic types and their hierarchical organization that are conserved from mouse to marmoset and human. Third, cross-modal analysis provides compelling evidence for the epigenomic, transcriptomic, and gene regulatory basis of neuronal phenotypes such as their physiological and anatomical properties, demonstrating the biological validity and genomic underpinning of neuron types and subtypes. Fourth, in situ single-cell transcriptomics provides a spatially-resolved cell type atlas of the motor cortex. Fifth, integrated transcriptomic, epigenomic and anatomical analyses reveal the correspondence between neural circuits and transcriptomic cell types. We further present an extensive genetic toolset for targeting and fate mapping glutamatergic projection neuron types toward linking their developmental trajectory to their circuit function. This page provides a guide to access accessing data and tools associated with this work 
 
 
+## Resources
+
+
+#### Brain Cell Data Center (BCDC)
+www.biccn.org
+
+#### International Neuroscience Initiatives
+[IBI](https://ibi.dimensions.ai/)
+
+#### Neuroscience Multi-omic Data Archive (NeMO) 
+[Primary transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
+
+#### Cis-elements Atlas 
+[CATlas](http://catlas.org/mousebrain/)
+
+#### LIGER github page 
+[LIGER](https://github.com/welch-lab/liger)
+
+### Neuromorpho - inventory digital reconstructed neurons
+[Neuromorpho](www.neuromorpho.org)
+
+
 ## Main Figures
 Data and supporting codes related to analyses in figures.
 
@@ -49,17 +71,7 @@ References for main technqiues
 
 [Hodge et al, 2019](https://www.nature.com/articles/s41586-019-1506-7)
 
-## Resources
 
-#### Brain Cell Data Center (BCDC)
-www.biccn.org
-
-#### Neuroscience Multi-omic Data Archive (NeMO) 
-[Primary transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
-
-
-#### Cis-elements Atlas 
-[CATlas](http://catlas.org/mousebrain/)
 
 
 
