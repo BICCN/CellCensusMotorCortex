@@ -61,6 +61,12 @@ Data and supporting codes related to analyses in figures.
 #### Neuroscience Multi-omic Data Archive (NeMO) 
 - [Primary transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
 
+#### Brain Image Library
+- [BIL](https://www.brainimagelibrary.org/dataset)
+
+#### Distributed Archives for Neurophysiology Data Integration
+[DANDI](https://www.dandiarchive.org) 
+
 #### Atlas of Cis-elements gene regulatory elements 
 - [CATlas](http://catlas.org/mousebrain/)
 
