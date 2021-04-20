@@ -110,20 +110,23 @@ Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 
 #### High-resolution primary data								
 
-Panel h:	 	
-[10x V3 macaque](http://data.nemoarchive.org/biccn/lab/lein/lein/transcriptomic/sncell/raw/)					
-		
-[10x V3 human (10X159-1 through 10x160-8)](http://data.nemoarchive.org/biccn/lab/linnarsson/transcriptome/sncell/10X/raw/10X159-1/)					
-[10x V3 marmoset (bi005_m1, bi006_m1)](http://data.nemoarchive.org/biccn/lab/feng/transcriptome/sncell/raw/)					
-		
-[10x V3 mouse Broad data (files with prefix pBICCNsMMrMOp)](http://data.nemoarchive.org/biccn/grant/huang/macosko/transcriptome/sncell/raw)					
-panel i-k:	raw data:	electrophophysiology in NWB format	https://dandiarchive.org/dandiset/000043/draft					
-		morphological reconstructions in SWC format	https://download.brainimagelibrary.org/79/1d/791d4ad4b5663855/					
-panel a	raw data:	Patch-seq mouse transcriptomic data in FASTQ format /biccn/grant/zeng/tolias	http://data.nemoarchive.org/biccn/grant/zeng/tolias/.					
-		biccn/grant/zeng/zeng/transcriptome	http://data.nemoarchive.org/biccn/grant/zeng/zeng/					
-panel b-g	raw data:	morphological reconstructions in SWC format	https://download.brainimagelibrary.org/3a/88/3a88a7687ab66069/.					
-		electrophysiological traces in NWB format	https://dandiarchive.org/dandiset/000008/					
+Panel a:
+-[Patch-seq mouse transcriptomic data in FASTQ format](/biccn/grant/zeng/tolias	http://data.nemoarchive.org/biccn/grant/zeng/tolias/)				--[Biccn/grant/zeng/zeng/transcriptome](http://data.nemoarchive.org/biccn/grant/zeng/zeng/)					
+
+Panels b-g:	
+-[Morphological reconstructions in SWC format](https://download.brainimagelibrary.org/3a/88/3a88a7687ab66069/)					
+-[Electrophysiological traces in NWB format](https://dandiarchive.org/dandiset/000008/)					
 								
+
+Panel h:	 	
+-[10x V3 macaque](http://data.nemoarchive.org/biccn/lab/lein/lein/transcriptomic/sncell/raw/)					
+-[10x V3 human (10X159-1 through 10x160-8)](http://data.nemoarchive.org/biccn/lab/linnarsson/transcriptome/sncell/10X/raw/10X159-1/)
+-[10x V3 marmoset (bi005_m1, bi006_m1)](http://data.nemoarchive.org/biccn/lab/feng/transcriptome/sncell/raw/)					
+-[10x V3 mouse Broad data (files with prefix pBICCNsMMrMOp)](http://data.nemoarchive.org/biccn/grant/huang/macosko/transcriptome/sncell/raw)					
+Panels i-k:	
+-[Electrophophysiology in NWB format](https://dandiarchive.org/dandiset/000043/draft)					
+-[Morphological reconstructions in SWC format](https://download.brainimagelibrary.org/79/1d/791d4ad4b5663855/)					
+
 								
 								
 								
