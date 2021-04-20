@@ -111,7 +111,8 @@ Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 #### High-resolution primary data								
 
 Panel a:
-- [Patch-seq mouse transcriptomic data in FASTQ format](/biccn/grant/zeng/tolias	http://data.nemoarchive.org/biccn/grant/zeng/tolias/)				--[Biccn/grant/zeng/zeng/transcriptome](http://data.nemoarchive.org/biccn/grant/zeng/zeng/)					
+- [Patch-seq mouse transcriptomic data in FASTQ format](http://data.nemoarchive.org/biccn/grant/zeng/tolias/)
+- [Biccn/grant/zeng/zeng/transcriptome](http://data.nemoarchive.org/biccn/grant/zeng/zeng/)					
 
 Panels b-g:	
 - [Morphological reconstructions in SWC format](https://download.brainimagelibrary.org/3a/88/3a88a7687ab66069/)					
