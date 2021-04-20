@@ -52,22 +52,23 @@ A series of companion studies supported the findings in this manuscript.
 
 #### Techniques and methods 
 
-##### Transcription
-
-
-[Yao et al, 2020](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2)
-
+##### Transcription 
+[Shared and distinct transcriptomic cell types across neocortical areas, Tasic et al, 2018](https://www.nature.com/articles/s41586-018-0654-5)
+[Conserved cell types with divergent features in human versus mouse cortex, Hodge et al, 2019](https://www.nature.com/articles/s41586-019-1506-7)
+[Innovations present in the primate interneuron repertoire, Krienen, 2020](https://www.nature.com/articles/s41586-020-2781-z?proof=t)
+[A transcriptomic atlas of the mouse cerebellum reveals regional specializations and novel cell types, Kozareva et al., 2020](https://www.biorxiv.org/content/10.1101/2020.03.04.976407v1)
+ 
 #### Single nucleus mRNA sequencing
 
 
-### Primary Data Resources
+#### Primary Data Resources
 
 - Brain Cell Data Center (BCDC), www.biccn.org
 - Neuroscience Multi-omic Data Archive (NeMO)[NeMO](https://nemoarchive.org), [Transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
 - Brain Image Library [BIL](https://www.brainimagelibrary.org), [Imaging data used in this study](https://www.brainimagelibrary.org/dataset)
 - Distributed Archives for Neurophysiology Data Integration [DANDI](https://www.dandiarchive.org) 
 
-### Other Key Resources
+#### Other Key Resources
 
 #### Atlas of Cis-elements gene regulatory elements 
 - [CATlas](http://catlas.org/mousebrain/)
