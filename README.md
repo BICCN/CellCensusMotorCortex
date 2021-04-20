@@ -16,16 +16,16 @@ We report the generation of a multimodal cell census and atlas of the mammalian 
 
 
 #### Brain Cell Data Center (BCDC)
-www.biccn.org
+- www.biccn.org
 
 #### Neuroscience Multi-omic Data Archive (NeMO) 
-[Primary transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
+- [Primary transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
 
 #### Atlas of Cis-elements gene regulatory elements 
-[CATlas](http://catlas.org/mousebrain/)
+- [CATlas](http://catlas.org/mousebrain/)
 
 #### LIGER - integrating multiple single cell datasets 
-[LIGER](https://github.com/welch-lab/liger)
+- [LIGER](https://github.com/welch-lab/liger)
 
 #### Neuromorpho - Inventory of digital reconstructed neurons
 [Neuromorpho](www.neuromorpho.org)
