@@ -116,7 +116,7 @@ Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 
 
 
-### *Figure 3: In situ cell type identification spatial mapping and projection mapping of individual cells in the MOp by MERFISH*
+### Figure 3: In situ cell type identification spatial mapping and projection mapping of individual cells in the MOp by MERFISH 
 
 #### High-resolution primary data	
 [MERFISH raw data and processed data](https://download.brainimagelibrary.org/02/26/02265ddb0dae51de/)
