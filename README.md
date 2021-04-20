@@ -2,7 +2,7 @@
  
 
 
-# A multimodal cell census and atlas of the mammalian primary motor cortex
+# *A multimodal cell census and atlas of the mammalian primary motor cortex*
 <img src="https://user-images.githubusercontent.com/39201252/115451895-99c59900-a1d2-11eb-801e-7c1578e91545.png" height=70/>
 
  
@@ -116,7 +116,7 @@ Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 
 
 
-### Figure 3: In situ cell type identification spatial mapping and projection mapping of individual cells in the MOp by MERFISH
+### *Figure 3: In situ cell type identification spatial mapping and projection mapping of individual cells in the MOp by MERFISH*
 
 #### High-resolution primary data	
 [MERFISH raw data and processed data](https://download.brainimagelibrary.org/02/26/02265ddb0dae51de/)
@@ -127,7 +127,7 @@ Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 
 [Panel 3b](https://github.com/ZhuangLab/BICCN_MOp_2021/tree/main/flagship)
 
-### Figure 4: Correspondence between transcriptomic and morpho-electrical properties of mouse MOp neurons by Patch-seq, and cross-species comparison of L5 ET neurons
+### *Figure 4: Correspondence between transcriptomic and morpho-electrical properties of mouse MOp neurons by Patch-seq, and cross-species comparison of L5 ET neurons*
 
 #### High-resolution primary data								
 
@@ -161,7 +161,7 @@ Panels a-g:
 - [Code](https://github.com/berenslab/mini-atlas/blob/master/code/flagship-figure.ipynb)						
 
 
-### Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets
+### *Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets*
 
 #### High-resolution primary data									
 
@@ -173,7 +173,7 @@ Panels a-g:
 [Code](https://github.com/zhoujt1994/BICCN2020Flagship.git)				
 
 
-### Figure 6: Genetic tools for targeting cortical glutamatergic projection neuron types
+### *Figure 6: Genetic tools for targeting cortical glutamatergic projection neuron types*
 
 #### High-resolution primary data					
 					
@@ -210,7 +210,7 @@ PlxnD1-Tbr2	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5	GK15	Huang	TBD	TBD
 					
 
 
-### Figure 7: Global wiring diagram and anatomical characterization of MOp-ul neuron types
+### *Figure 7: Global wiring diagram and anatomical characterization of MOp-ul neuron types*
 panel a	Hongwei 			
 				
 panel b	Pavel			
@@ -248,7 +248,7 @@ panel c	https://github.com/AllenInstitute/MOp_anatomy_rendering	code to reproduc
 				
 
 
-### Figure 8: Existence of L4 excitatory neurons in MOp
+### *Figure 8: Existence of L4 excitatory neurons in MOp*
 								
 					
 #### Analysis and code for main figure					
@@ -257,7 +257,7 @@ panel c	https://github.com/AllenInstitute/MOp_anatomy_rendering	code to reproduc
 [Panel 8b](https://brainome.ucsd.edu/annoj/BICCN_MOp/)				
 					
 					
-### Figure 9: Two distinct L5 ET projection neuron types in MOp
+### *Figure 9: Two distinct L5 ET projection neuron types in MOp*
 					
 #### Analysis and code for main figure						 				
 [Panel 9d](https://brainome.ucsd.edu/annoj/BICCN_MOp/)	
@@ -266,7 +266,7 @@ panel c	https://github.com/AllenInstitute/MOp_anatomy_rendering	code to reproduc
 					
 					
 
-### Figure 10: An integrated multimodal census and atlas of cell types in the primary motor cortex of mouse, marmoset and human
+### *Figure 10: An integrated multimodal census and atlas of cell types in the primary motor cortex of mouse, marmoset and human*
 
 						
 			
