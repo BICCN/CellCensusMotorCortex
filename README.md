@@ -36,7 +36,7 @@ A series of companion studies supported the findings in this manuscript.
 - [An integrated transcriptomic and epigenomic atlas of mouse primary motor cortex cell types, Yao et al., 2020] (https://www.biorxiv.org/content/10.1101/2020.02.29.970558v2)
 - [Evolution of cellular diversity in primary motor cortex of human, marmoset monkey, and mouse, Bakken et al., 2020](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2)
 - [Heterogeneity of Human Neuroepithelial Cells and Radial Glia, Eze et al., 2020](https://www.biorxiv.org/content/10.1101/2020.03.06.981423v1)
-- (https://www.biorxiv.org/content/10.1101/2020.06.04.105700v1)
+- [Molecular, spatial and projection diversity of neurons in primary motor cortex revealed by in situ single-cell transcriptomics](https://www.biorxiv.org/content/10.1101/2020.06.04.105700v1)
 - [Phenotypic variation of transcriptomic cell types in mouse motor cortex, Scala et al, 2020](https://www.nature.com/articles/s41586-020-2907-3) 
 - [Cellular Anatomy of the Mouse Primary Motor Cortex, Munoz-Casteneda, 2020](https://www.biorxiv.org/content/10.1101/2020.10.02.323154v1)
 - [Genetic dissection of glutamatergic neuron subpopulations and developmental trajectories in the cerebral cortex, Matho et al,2020](www.biorxiv.org/content/10.1101/2020.04.22.054064v1)
