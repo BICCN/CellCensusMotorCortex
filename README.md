@@ -46,7 +46,7 @@ Data and supporting codes related to analyses in figures.
 
 2. [Figure 2: MOp consensus cell type taxonomy.](#figure-2-mop-consensus-cell-type-taxonomy)
 
-3. [Figure 3: In situ cell-type-identification, spatial mapping and projection mapping of individual cells in the MOp by MERFISH.] (#figure-3-In-situ-cell-type-identification-spatial-mapping-and-projection-mapping-of-individual-cells-in-the-MOp-by-MERFISH)
+3. [Figure 3: In situ cell-type-identification, spatial mapping and projection mapping of individual cells in the MOp by MERFISH.] (#figure-3-In-situ-cell-type-identification-spatial-mapping-and-projection-mapping-of-individual-cells-by-MERFISH)
 
 4. [Figure 4: Correspondence between transcriptomic and morpho-electrical properties of mouse MOp neurons by Patch-seq, and cross-species comparison of L5 ET neurons.](#figure-4-Correspondence-between-transcriptomic-and-morpho-electrical-properties-of-mouse-MOp-neurons-by-Patch-seq-and-cross-species-comparison-of-L5-ET-neurons) 
 
@@ -116,7 +116,7 @@ Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 
 
 
-### Figure 3: In situ cell type identification spatial mapping and projection mapping of individual cells in the MOp by MERFISH 
+### *Figure 3: In situ cell type identification spatial mapping and projection mapping of individual cells by MERFISH* 
 
 #### High-resolution primary data	
 [MERFISH raw data and processed data](https://download.brainimagelibrary.org/02/26/02265ddb0dae51de/)
