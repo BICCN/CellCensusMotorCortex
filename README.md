@@ -18,10 +18,9 @@ Data and supporting codes related to analyses in figures.
 
 3. [Figure 3: In situ cell-type-identification, spatial mapping and projection mapping of individual cells in the MOp by MERFISH.] (#figure-3-in-situ-cell-type-identification-spatial-mapping-and-projection-mapping-of-individual-cells-in-the-MOp-by-MERFISH)
 
-
 4. [Figure 4: Correspondence between transcriptomic and morpho-electrical properties of mouse MOp neurons by Patch-seq, and cross-species comparison of L5 ET neurons.] 
 
-5. [Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets.] 
+5. [Figure 5: Epi-Retro-Seq links molecular cell types with distal projection targets.](#figure-5-Epi-Retro-Seq-links-molecular-cell-types-with-distal-projection-targets) 
 
 6. [Figure 6: Genetic tools for targeting cortical glutamatergic projection neuron types.]
 
