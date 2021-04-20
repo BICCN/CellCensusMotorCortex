@@ -24,11 +24,11 @@ Data and supporting codes related to analyses in figures.
 
 6. [Figure 6: Genetic tools for targeting cortical glutamatergic projection neuron types.](#figure-6-Genetic-tools-for-targeting-cortical-glutamatergic-projection-neuron-types)
 
-7. [Figure 7: Global wiring diagram and anatomical characterization of MOp-ul neuron types.](#figure 7-Global-wiring-diagram-and-anatomical-characterization-of-MOp-ul-neuron-types) 
+7. [Figure 7: Global wiring diagram and anatomical characterization of MOp-ul neuron types.](#figure-7-Global-wiring-diagram-and-anatomical-characterization-of-MOp-ul-neuron-types) 
 
-8. [Figure 8: Existence of L4 excitatory neurons in MOp.](#figure 8-Existence-of-L4-excitatory-neurons-in-MOp) 
+8. [Figure 8: Existence of L4 excitatory neurons in MOp.](#figure-8-Existence-of-L4-excitatory-neurons-in-MOp) 
 
-9. [Figure 9: Two distinct L5 ET projection neuron types in MOp.](#figure-9-Two distinct-L5-ET-projection-neuron-types-in-MOp)
+9. [Figure 9: Two distinct L5 ET projection neuron types in MOp.](#figure-9-Two-distinct-L5-ET-projection-neuron-types-in-MOp)
 
 10. [Figure 10: An integrated multimodal census and atlas of cell types in the primary motor cortex of mouse, marmoset and human.](#figure-10-An-integrated-multimodal-census-and-atlas-of-cell-types-in-the-primary-motor-cortex-of-mouse-marmoset-and-human)
 
