@@ -57,7 +57,7 @@ Data and supporting codes related to analyses in figures.
 References for main technqiues 
 
 #### Single cell mRNA sequencing
-[Tasic et al, 2018](https://www.nature.com/articles/s41586-018-0654-5/)
+[Shared and distinct transcriptomic cell types across neocortical areas, Tasic et al, 2018](https://www.nature.com/articles/s41586-018-0654-5/)
 
 [Yao et al, 2020](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2)
 
