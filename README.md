@@ -124,7 +124,7 @@ Panel h:
 - [10x V3 human (10X159-1 through 10x160-8)](http://data.nemoarchive.org/biccn/lab/linnarsson/transcriptome/sncell/10X/raw/10X159-1/)
 - [10x V3 marmoset (bi005_m1, bi006_m1)](http://data.nemoarchive.org/biccn/lab/feng/transcriptome/sncell/raw/)					
 - [10x V3 mouse Broad data (files with prefix pBICCNsMMrMOp)](http://data.nemoarchive.org/biccn/grant/huang/macosko/transcriptome/sncell/raw)					
-Panels i-k:	
+Panels i-k:
 - [Electrophophysiology in NWB format](https://dandiarchive.org/dandiset/000043/draft)					
 - [Morphological reconstructions in SWC format](https://download.brainimagelibrary.org/79/1d/791d4ad4b5663855/)					
 
