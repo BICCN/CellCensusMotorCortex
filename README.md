@@ -1,5 +1,5 @@
 
-![BICCN](https://user-images.githubusercontent.com/39201252/115289683-b517a200-a107-11eb-977e-bf7a557c826a.png)
+![BICCN](https://user-images.githubusercontent.com/39201252/115289683-b517a200-a107-11eb-977e-bf7a557c826a.png | width=60)
 
 # A multimodal cell census and atlas of the mammalian primary motor cortex
 ## BRAIN Initiative Cell Census Network (BICCN)
@@ -31,9 +31,9 @@ www.biccn.org
 #### Neuromorpho - Inventory of digital reconstructed neurons
 [Neuromorpho](www.neuromorpho.org)
 
-#### Metaneighbor - Characterizing cell type replicability
+#### MetaNeighbor - Characterizing cell type replicability
 
-[Metaneighbor](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fgillislab%2FMetaNeighbor-Protocol&amp;data=04%7C01%7C%7Cfe6189e9c6fa4888d1a508d9042e44cf%7C32669cd6737f4b398bddd6951120d3fc%7C0%7C0%7C637545419050652251%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=XOsmVXMpGnmATEcM3u1BN97V%2Bpw%2BffTwCnrVpx3WmFg%3D&amp;reserved=0)
+[MetaNeighbor](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fgillislab%2FMetaNeighbor-Protocol&amp;data=04%7C01%7C%7Cfe6189e9c6fa4888d1a508d9042e44cf%7C32669cd6737f4b398bddd6951120d3fc%7C0%7C0%7C637545419050652251%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=XOsmVXMpGnmATEcM3u1BN97V%2Bpw%2BffTwCnrVpx3WmFg%3D&amp;reserved=0)
 
 
 
