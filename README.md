@@ -265,7 +265,8 @@ Panel c
 | CT projections |	L6_AA0649 [A] |	AA0649 [A] |	MouseLight |	[Data link](http://ml-neuronbrowser.janelia.org/) | 
 | CT projections |	L6_AA0898 [A] |	AA0898 [A] |	MouseLight |	[Data link](http://ml-neuronbrowser.janelia.org/) |
 				
- 					
+ 		
+		
 Panels d-i				
 | Label in Fig.	 | Full Descriptive ID	| Experiment ID | Originating Lab |	*Brain Architecture* viewer |
 | :-- | :- |:- |:- |:- |
