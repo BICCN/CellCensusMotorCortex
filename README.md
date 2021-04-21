@@ -261,7 +261,7 @@ Panel c
 | IT projections |	L4_Cux2-CreERT2-18864_3338_x3396_y21865	 | 18864_3338_x3396_y21865 |	Allen	| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/) |
 | IT projections |	L5_AA0271 [A]	| AA0271 [A] |	MouseLight |	[Data link](http://ml-neuronbrowser.janelia.org/)
 | ET projections |	L5_+MY+TH_Fezf2-CreERT2-182725_3762_x5563_y19178 |	182725_3762_x5563_y19178 |	Allen	| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/) |
-| ET projections |	L5_no MY_Fezf2-CreERT2_182725_4080_x6576_y11407	 | 182725_4080_x6576_y11407	| Allen	 | |[Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/) |
+| ET projections |	L5_no MY_Fezf2-CreERT2_182725_4080_x6576_y11407	 | 182725_4080_x6576_y11407	| Allen	 | [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/) |
 | CT projections |	L6_AA0649 [A] |	AA0649 [A] |	MouseLight |	[Data link](http://ml-neuronbrowser.janelia.org/) | 
 | CT projections |	L6_AA0898 [A] |	AA0898 [A] |	MouseLight |	[Data link](http://ml-neuronbrowser.janelia.org/) |
 				
