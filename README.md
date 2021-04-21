@@ -246,11 +246,11 @@ Panel j
 
 
 ### *Figure 7: Global wiring diagram and anatomical characterization of MOp-ul neuron types*
-panel a	Hongwei 			
+Panel a	Hongwei 			
 				
-panel b	Pavel			
+Panel b	Pavel			
 				
-panel c	Julie			
+Panel c			
 Label in Fig	Full Descriptive ID	experiment id	Originating Lab	Link to registered swc (single cells) or 25 um grid file (tracer)
 Rabies	Tlx3-660759241	660759241	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
 AAV	C57BL/6J-127084296	127084296	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
@@ -268,10 +268,10 @@ ET projections	L5_no MY_Fezf2-CreERT2_182725_4080_x6576_y11407	182725_4080_x6576
 CT projections	L6_AA0649 [A]	AA0649 [A]	MouseLight	http://ml-neuronbrowser.janelia.org/
 CT projections	L6_AA0898 [A]	AA0898 [A]	MouseLight	http://ml-neuronbrowser.janelia.org/
 				
-panel d	Hongwei 			
+Panel d	Hongwei 			
 				
 Panels d-i				
-Label in Fig	Full Descriptive ID	experiment id	Originating Lab	Link to Brain Architecture viewer
+Label in Fig	Full Descriptive ID	experiment id	Originating Lab	Brain Architecture viewer
 PlxnD1	PlxnD1-CreER;LSL-Flp	180722	Huang	http://brainarchitecture.org/viewer4/mouse/map/8401F
 PlxnD1	PlxnD1-CreER;LSL-Flp	180730	Huang	http://brainarchitecture.org/viewer4/mouse/map/28819F
 Tle4	Tle4-CreER;LSL-Flp	180605	Huang	http://brainarchitecture.org/viewer4/mouse/map/28814F
@@ -281,8 +281,6 @@ Tle4	Tle4-CreER;LSL-Flp	180816	Huang	http://brainarchitecture.org/viewer4/mouse/
 panel c	https://github.com/AllenInstitute/MOp_anatomy_rendering	code to reproduce rendering of registered data in 3D		
 				
 				
-
-
 ### *Figure 8: Existence of L4 excitatory neurons in MOp*
 								
 					
