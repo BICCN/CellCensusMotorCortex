@@ -217,7 +217,7 @@ Panel c
 | Fezf2	| Fezf2-CreER; Ai14 | E12.5 | P30 |2 mg/kg body weight |Huang |
 					
 Panels d-k					
-|Label in Fig. | Full Descriptive ID |	Experiment ID |	Originating Lab	| Link to *Brain Architecture* Viewer | BIL link |
+|Label in Fig. | Full Descriptive ID |	Experiment ID |	Originating Lab	| *Brain Architecture* Viewer | BIL link |
 | :-- | :- |:- |:- |:- |:- |
 | PlxnD1 | PlxnD1-CreER;LSL-Flp	| 180722| Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/8401F)| [BIL](https://download.brainimagelibrary.org/84/aa/84aa97d12a6c17ba/180722_WG_PlxnD1lslFlpCFA1female_processed/) |
 | PlxnD1 | PlxnD1-CreER;LSL-Flp	| 180730 | Huang |[Viewer](http://brainarchitecture.org/viewer4/mouse/map/28819F) | [BIL](https://download.brainimagelibrary.org/e9/2a/e92aa2dc0e14ad4d/180730_WG010_PlxnD1_CFA_female_processed/) |
@@ -255,7 +255,7 @@ Panel c
 | Nr5a1 L4 IT |	Nr5a1-Cre-882407664 |	882407664 |Allen | [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
 | Tlx3 L5 IT | Tlx3-Cre_PL56-880719308 | 880719308 | Allen| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
 | Rbp4 L5 IT+ET | Rbp4-Cre_KL100-948130129 | 948130129| Allen	| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
-| Sim1 L5 ET |	Sim1-Cre_KJ18-297711339	297711339 |	Allen |	[Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/)
+| Sim1 L5 ET |	Sim1-Cre_KJ18-297711339	| 297711339 |	Allen |	[Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/)
 | Ntsr1 L6 CT |	Ntsr1-Cre_GN220-159651060 | 159651060 |	Allen |	[Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/)
 | IT projections |	L2/3_Cux2-CreERT2-18453_3456_x24161_y6646 |	18453_3456_x24161_y6646	 | Allen |[Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/
 | IT projections |	L4_Cux2-CreERT2-18864_3338_x3396_y21865	 | 18864_3338_x3396_y21865 |	Allen	| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/) |
@@ -265,14 +265,14 @@ Panel c
 | CT projections |	L6_AA0649 [A] |	AA0649 [A] |	MouseLight |	[Data link](http://ml-neuronbrowser.janelia.org/) | 
 | CT projections |	L6_AA0898 [A] |	AA0898 [A] |	MouseLight |	[Data link](http://ml-neuronbrowser.janelia.org/) |
 				
-Panel d	Hongwei 			
-				
+ 					
 Panels d-i				
-Label in Fig	Full Descriptive ID	experiment id	Originating Lab	Brain Architecture viewer
-PlxnD1	PlxnD1-CreER;LSL-Flp	180722	Huang	http://brainarchitecture.org/viewer4/mouse/map/8401F
-PlxnD1	PlxnD1-CreER;LSL-Flp	180730	Huang	http://brainarchitecture.org/viewer4/mouse/map/28819F
-Tle4	Tle4-CreER;LSL-Flp	180605	Huang	http://brainarchitecture.org/viewer4/mouse/map/28814F
-Tle4	Tle4-CreER;LSL-Flp	180816	Huang	http://brainarchitecture.org/viewer4/mouse/map/8421F
+| Label in Fig.	 | Full Descriptive ID	| Experiment ID | Originating Lab |	*Brain Architecture* viewer |
+| :-- | :- |:- |:- |:- |
+| PlxnD1 |	PlxnD1-CreER;LSL-Flp	| 180722 | 	Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/8401F)
+| PlxnD1 |	PlxnD1-CreER;LSL-Flp |	180730	| Huang | 	[Viewer](http://brainarchitecture.org/viewer4/mouse/map/28819F)
+| Tle4	| Tle4-CreER;LSL-Flp |	180605 |	Huang |	[Viewer](http://brainarchitecture.org/viewer4/mouse/map/28814F)
+| Tle4	| Tle4-CreER;LSL-Flp |	180816	| Huang |	[Viewer](http://brainarchitecture.org/viewer4/mouse/map/8421F)
 				
 #### Analysis and code for main figure				
 panel c	https://github.com/AllenInstitute/MOp_anatomy_rendering	code to reproduce rendering of registered data in 3D		
