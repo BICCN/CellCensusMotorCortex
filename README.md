@@ -209,7 +209,7 @@ Panels a-g:
 
 #### High-resolution primary data					
 					
-**Panel c**					
+Panel c					
 | Label in Fig. |Full Descriptive ID | Induction date |	Harvest date |	Tamoxifen dose | Originating Lab |
 | :-- | :- |:- |:- |:- |:- |
 | Lhx2 | Lhx2-CreER; Ai14 | E12.5 | E13.5 | 2 mg/kg body weight	 | Huang |
@@ -218,8 +218,10 @@ Panels a-g:
 | Fezf2	| Fezf2-CreER; Ai14 | E12.5 | P30 |2 mg/kg body weight |Huang |
 					
 Panels d-k					
-Label in Fig	Full Descriptive ID	experiment id	Originating Lab	Link to Brain Architecture viewer	BIL link
-PlxnD1	PlxnD1-CreER;LSL-Flp	180722	Huang	http://brainarchitecture.org/viewer4/mouse/map/8401F	https://download.brainimagelibrary.org/84/aa/84aa97d12a6c17ba/180722_WG_PlxnD1lslFlpCFA1female_processed/
+|Label in Fig. | Full Descriptive ID |	Experiment ID |	Originating Lab	| Link to Brain Architecture Viewer | BIL link |
+| :-- | :- |:- |:- |:- |:- |
+| PlxnD1 | PlxnD1-CreER;LSL-Flp	| 180722| Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/8401F)	| [BIL](https://download.brainimagelibrary.org/84/aa/84aa97d12a6c17ba/180722_WG_PlxnD1lslFlpCFA1female_processed/) |
+
 PlxnD1	PlxnD1-CreER;LSL-Flp	180730	Huang	http://brainarchitecture.org/viewer4/mouse/map/28819F	https://download.brainimagelibrary.org/e9/2a/e92aa2dc0e14ad4d/180730_WG010_PlxnD1_CFA_female_processed/
 Fezf2	Fezf2-CreER;LSL-Flp	180830	Huang	http://brainarchitecture.org/viewer4/mouse/map/28827F	https://download.brainimagelibrary.org/db/b8/dbb827c84942c557/180830_JH_WG_Fezf2LSLflp_CFA_female/
 Fezf2	Fezf2-CreER;LSL-Flp	190903	Huang	http://brainarchitecture.org/viewer4/mouse/map/28917F	https://download.brainimagelibrary.org/2b/6e/2b6e48dc425d16db/190903_JH_WG0006_Fezf2LSLflp_MOp_CFA_female_processed/
