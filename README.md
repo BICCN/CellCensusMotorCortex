@@ -52,7 +52,7 @@ A series of companion studies supported the findings in this manuscript.
 All primary data is accessible through the Brain Cell Data Center (BCDC) and data archives.
 
 - Brain Cell Data Center (BCDC), www.biccn.org
-- Neuroscience Multi-omic Data Archive, (NeMO)[NeMO](https://nemoarchive.org), [Transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
+- Neuroscience Multi-omic Data Archive (NeMO), [NeMO](https://nemoarchive.org), [Transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
 - Brain Image Library, [BIL](https://www.brainimagelibrary.org), [Imaging data used in this study](https://submit.brainimagelibrary.org/search)
 - Distributed Archives for Neurophysiology Data Integration, [DANDI](https://www.dandiarchive.org) 
 
