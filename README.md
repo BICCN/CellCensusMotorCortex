@@ -252,11 +252,12 @@ Panel c
 | Rabies | Tlx3-660759241 | 660759241 |	Allen| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
 | AAV |	C57BL/6J-127084296 | 127084296| Allen|  [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
 | Cux2 L2/3/4 IT | Cux2-IRES-Cre-947242021 | 947242021 | Allen | [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
-
-
 | Nr5a1 L4 IT |	Nr5a1-Cre-882407664 |	882407664 |Allen | [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
 | Tlx3 L5 IT | Tlx3-Cre_PL56-880719308 | 880719308 | Allen| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
 | Rbp4 L5 IT+ET | Rbp4-Cre_KL100-948130129 | 948130129| Allen	| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
+
+
+
 | Sim1 L5 ET |	Sim1-Cre_KJ18-297711339	297711339 |	Allen |	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
 | Ntsr1 L6 CT |	Ntsr1-Cre_GN220-159651060 | 159651060 |	Allen |	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
 | IT projections |	L2/3_Cux2-CreERT2-18453_3456_x24161_y6646 |	18453_3456_x24161_y6646	 | Allen |[Data link]((http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/
