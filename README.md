@@ -230,7 +230,7 @@ Panels d-k
 | Foxp2	| Foxp2-Cre |	191209 | Huang |[Viewer](http://braincircuits.org/viewer4/mouse/map/29159F)|[BIL](https://download.brainimagelibrary.org/81/bc/81bcaddee6e8ac06/191209_JH_KM_FoxP2-ires-cre_CFA_male2_processed/) |
 					
 Panel j					
-| Label in Fig. | Full Descriptive ID | Experiment ID |	Originating Lab | Link to *Brain Architecture* Viewer |BIL link |
+| Label in Fig. | Full Descriptive ID | Experiment ID |	Originating Lab | *Brain Architecture* Viewer |BIL link |
 | :-- | :- |:- |:- |:- |:- |
 | PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	GK01 |	Huang	| TBD	| TBD |
 | PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	GK02 |	Huang	| TBD	| TBD |
