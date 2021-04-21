@@ -223,11 +223,11 @@ Panels d-k
 | PlxnD1 | PlxnD1-CreER;LSL-Flp	| 180722| Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/8401F)| [BIL](https://download.brainimagelibrary.org/84/aa/84aa97d12a6c17ba/180722_WG_PlxnD1lslFlpCFA1female_processed/) |
 | PlxnD1 | PlxnD1-CreER;LSL-Flp	| 180730 | Huang |[Viewer](http://brainarchitecture.org/viewer4/mouse/map/28819F) | [BIL] (https://download.brainimagelibrary.org/e9/2a/e92aa2dc0e14ad4d/180730_WG010_PlxnD1_CFA_female_processed/) |
 | Fezf2	| Fezf2-CreER;LSL-Flp |	180830 | Huang |[Viewer](http://brainarchitecture.org/viewer4/mouse/map/28827F) |[BIL](https://download.brainimagelibrary.org/db/b8/dbb827c84942c557/180830_JH_WG_Fezf2LSLflp_CFA_female/) |
-| Fezf2 | Fezf2-CreER;LSL-Flp |	190903 | Huang |[Viewer](http://brainarchitecture.org/viewer4/mouse/map/28917F	|[BIL](https://download.brainimagelibrary.org/2b/6e/2b6e48dc425d16db/190903_JH_WG0006_Fezf2LSLflp_MOp_CFA_female_processed/) |
-| Tle4 | Tle4-CreER;LSL-Flp |	180605 | Huang | [Viewer](http://brainarchitecture.org/viewer4/mouse/map/28814F	|[BIL](https://download.brainimagelibrary.org/84/aa/84aa97d12a6c17ba/180605_WG_Tle4lslFlpRPCFA_female_processed/) |
-| Tle4 | Tle4-CreER;LSL-Flp |	180816 | Huang |[Viewer](http://brainarchitecture.org/viewer4/mouse/map/8421F	|[BIL]	(https://download.brainimagelibrary.org/c8/1f/c81fe306a97b33e8/180816_JH_WG_Tle4LSLFlpNPCfa_female/) |
-| Foxp2	| Foxp2-Cre |	190915 | Huang |[Viewer](http://braincircuits.org/viewer4/mouse/map/29158F| |		 
-| Foxp2	| Foxp2-Cre |	191209 | Huang |[Viewer](http://braincircuits.org/viewer4/mouse/map/29159F|[BIL]		(https://download.brainimagelibrary.org/81/bc/81bcaddee6e8ac06/191209_JH_KM_FoxP2-ires-cre_CFA_male2_processed/) |
+| Fezf2 | Fezf2-CreER;LSL-Flp |	190903 | Huang |[Viewer](http://brainarchitecture.org/viewer4/mouse/map/28917F)	|[BIL](https://download.brainimagelibrary.org/2b/6e/2b6e48dc425d16db/190903_JH_WG0006_Fezf2LSLflp_MOp_CFA_female_processed/) |
+| Tle4 | Tle4-CreER;LSL-Flp |	180605 | Huang | [Viewer](http://brainarchitecture.org/viewer4/mouse/map/28814F)	|[BIL](https://download.brainimagelibrary.org/84/aa/84aa97d12a6c17ba/180605_WG_Tle4lslFlpRPCFA_female_processed/) |
+| Tle4 | Tle4-CreER;LSL-Flp |	180816 | Huang |[Viewer](http://brainarchitecture.org/viewer4/mouse/map/8421F)	|[BIL]	(https://download.brainimagelibrary.org/c8/1f/c81fe306a97b33e8/180816_JH_WG_Tle4LSLFlpNPCfa_female/) |
+| Foxp2	| Foxp2-Cre |	190915 | Huang |[Viewer](http://braincircuits.org/viewer4/mouse/map/29158F)| |		 
+| Foxp2	| Foxp2-Cre |	191209 | Huang |[Viewer](http://braincircuits.org/viewer4/mouse/map/29159F)|[BIL]		(https://download.brainimagelibrary.org/81/bc/81bcaddee6e8ac06/191209_JH_KM_FoxP2-ires-cre_CFA_male2_processed/) |
 					
 Panel j					
 Label in Fig	Full Descriptive ID	experiment id	Originating Lab	Link to Brain Architecture viewer	BIL link
