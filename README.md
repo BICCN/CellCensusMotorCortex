@@ -106,6 +106,10 @@ All primary data is available through the data archives and accessible through t
 
 #### Other Key Resources
 
+| Resource | Description | Link |
+| := | := | := |
+| CATlas | Atlas of Cis-elements gene regulatory elements | [CATlas](http://catlas.org/mousebrain/)
+
 #### Atlas of Cis-elements gene regulatory elements 
 - [CATlas](http://catlas.org/mousebrain/)
 
@@ -219,7 +223,7 @@ Panels a-g:
 | :-- | :- |:- |:- |:- |:- |
 | Lhx2 | Lhx2-CreER; Ai14 | E12.5 | E13.5 | 2 mg/kg body weight	 | Huang |
 | Lhx2 | Lhx2-CreER; Ai14 | E12.5| P30| 100 mg/kg body weight |	Huang |
-| Fezf2 | Fezf2-CreER; Ai14  | E12.5| E13.5 | 2 mg/kg body weight	Huang |
+| Fezf2 | Fezf2-CreER; Ai14  | E12.5| E13.5 | 2 mg/kg body weight | Huang |
 | Fezf2	| Fezf2-CreER; Ai14 | E12.5 | P30 |2 mg/kg body weight |Huang |
 					
 Panels d-k					
