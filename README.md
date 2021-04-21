@@ -107,7 +107,7 @@ All primary data is available through the data archives and accessible through t
 #### Other Key Resources
 
 | Resource | Description | Link |
-| := | := | := |
+| :- | :- | :- |
 | CATlas | Atlas of Cis-elements gene regulatory elements | [CATlas](http://catlas.org/mousebrain/)
 | LIGER | Integrating multiple single cell datasets | [LIGER](https://github.com/welch-lab/liger)
 | Neuromorpho |  Inventory of digital reconstructed neurons | [Neuromorpho](www.neuromorpho.org) 
