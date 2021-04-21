@@ -51,6 +51,7 @@ A series of companion studies supported the findings in this manuscript.
 
 
 #### Techniques and methods 
+The following papers are referenced techniques other than those in the companion papers.
 
 ##### Transcription 
 - [Shared and distinct transcriptomic cell types across neocortical areas, Tasic et al, 2018](https://www.nature.com/articles/s41586-018-0654-5)
@@ -74,21 +75,23 @@ A series of companion studies supported the findings in this manuscript.
 
 ##### Multimodal and cross-species integration
 - [Comprehensive integration of single cell data, Stuart et al, 2019](https://www.cell.com/cell/pdf/S0092-8674(19)30559-8.pdf)
-- [Single-Cell Multi-omic Integration Compares and Contrasts Features of Brain Cell Identity, Welch et al, 2019](https://www.sciencedirect.com/science/article/pii/S0092867419305045
+- [Single-Cell Multi-omic Integration Compares and Contrasts Features of Brain Cell Identity, Welch et al, 2019] (https://www.sciencedirect.com/science/article/pii/S0092867419305045
 - [Characterizing the replicability of cell types defined by single cell RNA-sequencing data using MetaNeighbor. Crow et al, 2018](https://www.nature.com/articles/s41467-018-03282-0)
 
 ##### Electrophysiology, cellular morphology and transcriptomics
+- [Electrophysiological, transcriptomic and morphologic profiling of single neurons using Patch-seq, Cadwell et al, 2016](https://www.nature.com/articles/nbt.3445)
+- [Multimodal profiling of single-cell morphology, electrophysiology, and gene expression using Patch-seq, Cadwell et al, 2017](https://pubmed.ncbi.nlm.nih.gov/29189773/)
 
 ##### Cellular morphology
+- [High-throughput dual-colour precision imaging for brain-wide connectome with cytoarchitectonic landmarks at the cellular level, Gong et al, 2016](https://www.nature.com/articles/ncomms12142)
+- [Reconstruction of 1,000 Projection Neurons Reveals New Cell Types and Organization of Long-Range Connectivity in the Mouse Brain, Winnubst et al 2019](https://www.sciencedirect.com/science/article/pii/S0092867419308426)
 
-##### Inter-areal circuit mapping
-
-##### Projection-specific profiling
+##### Inter-areal circuit 
+- [Neural networks of the mouse cortex, Zingg et al, 2014](https://www.cell.com/fulltext/S0092-8674(14)00222-0)
+- [AAV-Mediated Anterograde Transsynaptic Tagging: Mapping Corticocollicular Input-Defined Neural Pathways for Defense Behaviors, Zingg et al, 2017](https://pubmed.ncbi.nlm.nih.gov/27989459/)
 
 ##### Genetic tools
 - [Genetic dissection of glutamatergic neuron subpopulations and developmental trajectories in the cerebral cortex, Matho et al,2020](www.biorxiv.org/content/10.1101/2020.04.22.054064v1)
-
-
 
 
 #### Primary Data Resources
@@ -97,6 +100,7 @@ A series of companion studies supported the findings in this manuscript.
 - Neuroscience Multi-omic Data Archive (NeMO)[NeMO](https://nemoarchive.org), [Transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
 - Brain Image Library [BIL](https://www.brainimagelibrary.org), [Imaging data used in this study](https://submit.brainimagelibrary.org/search)
 - Distributed Archives for Neurophysiology Data Integration [DANDI](https://www.dandiarchive.org) 
+
 
 #### Other Key Resources
 
