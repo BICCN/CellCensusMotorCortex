@@ -247,14 +247,13 @@ Panel j
 ### *Figure 7: Global wiring diagram and anatomical characterization of MOp-ul neuron types*
  						
 Panel c			
-| Label in Fig.	| Full Descriptive ID |	Experiment ID |	Originating Lab	|Link to registered SWC (single cells) or 25 um grid file (tracer)
+| Label in Fig.	| Full Descriptive ID |	Experiment ID |	Originating Lab	| SWC (single cells) or 25 um grid (tracer) |
 | :-- | :- |:- |:- |:- |
-| Rabies | Tlx3-660759241 | 660759241 |	Allen| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/)
-| AAV |	C57BL/6J-127084296 | 127084296| Allen|  [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/)
+| Rabies | Tlx3-660759241 | 660759241 |	Allen| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
+| AAV |	C57BL/6J-127084296 | 127084296| Allen|  [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
+| Cux2 L2/3/4 IT | Cux2-IRES-Cre-947242021 | 947242021 | Allen | [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
 
 
-
-Cux2 L2/3/4 IT	Cux2-IRES-Cre-947242021	947242021	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
 Nr5a1 L4 IT	Nr5a1-Cre-882407664	882407664	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
 Tlx3 L5 IT	Tlx3-Cre_PL56-880719308	880719308	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
 Rbp4 L5 IT+ET	Rbp4-Cre_KL100-948130129	948130129	Allen	http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/
