@@ -96,6 +96,8 @@ The following papers are referenced techniques other than those in the companion
 
 #### Primary Data Archives
 
+All primary data is available through the data archives and accessible through the Brain Cell Data Center.
+
 - **Brain Cell Data Center (BCDC)**, www.biccn.org
 - Neuroscience Multi-omic Data Archive (NeMO)[NeMO](https://nemoarchive.org), [Transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
 - Brain Image Library [BIL](https://www.brainimagelibrary.org), [Imaging data used in this study](https://submit.brainimagelibrary.org/search)
@@ -217,7 +219,7 @@ Panels a-g:
 | :-- | :- |:- |:- |:- |:- |
 | Lhx2 | Lhx2-CreER; Ai14 | E12.5 | E13.5 | 2 mg/kg body weight	 | Huang |
 | Lhx2 | Lhx2-CreER; Ai14 | E12.5| P30| 100 mg/kg body weight |	Huang |
-| Fezf2 | Fezf2-CreER; Ai14  | E12.5| E13.5 2 mg/kg body weight	Huang |
+| Fezf2 | Fezf2-CreER; Ai14  | E12.5| E13.5 | 2 mg/kg body weight	Huang |
 | Fezf2	| Fezf2-CreER; Ai14 | E12.5 | P30 |2 mg/kg body weight |Huang |
 					
 Panels d-k					
