@@ -212,12 +212,13 @@ Panels a-g:
 
 #### High-resolution primary data					
 					
-Panel c					
-Label in Fig	Full Descriptive ID	Induction date 	Harvest date 	Tamoxifen dose 	Originating Lab
-Lhx2	Lhx2-CreER; Ai14	E12.5	E13.5	2 mg/kg body weight	Huang
-Lhx2	Lhx2-CreER; Ai14	E12.5	P30	100 mg/kg body weight	Huang
-Fezf2	Fezf2-CreER; Ai14	E12.5	E13.5	2 mg/kg body weight	Huang
-Fezf2	Fezf2-CreER; Ai14	E12.5	P30	2 mg/kg body weight	Huang
+**Panel c**					
+| Label in Fig. |Full Descriptive ID | Induction date |	Harvest date |	Tamoxifen dose | Originating Lab |
+| :-- | :- |:- |:- |:- |:- |
+| Lhx2 | Lhx2-CreER; Ai14 | E12.5 | E13.5 | 2 mg/kg body weight	 | Huang |
+| Lhx2 | Lhx2-CreER; Ai14 | E12.5| P30| 100 mg/kg body weight |	Huang |
+| Fezf2 | Fezf2-CreER; Ai14  | E12.5| E13.5 2 mg/kg body weight	Huang |
+| Fezf2	| Fezf2-CreER; Ai14 | E12.5 | P30 |2 mg/kg body weight |Huang |
 					
 Panels d-k					
 Label in Fig	Full Descriptive ID	experiment id	Originating Lab	Link to Brain Architecture viewer	BIL link
