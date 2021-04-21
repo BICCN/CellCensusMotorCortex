@@ -62,17 +62,20 @@ A series of companion studies supported the findings in this manuscript.
 - [Robust single-cell DNA methylome profiling with snmC-seq2, Luo, et al. 2018](https://www.nature.com/articles/s41467-018-06355-2)
 - [Spatiotemporal DNA methylome dynamics of the developing mouse fetus, He et al, 2018](https://www.nature.com/articles/s41586-020-2119-x)
 
-
 ##### Open Chromatin
+- [Single-nucleus analysis of accessible chromatin in developing mouse forebrain reveals cell-type-specific transcriptional regulation, Preissl et al, 2018](https://www.nature.com/articles/s41593-018-0079-3)
 
 ##### Combined transcription/Open chromatin
-
- 
-##### Combined transcription/Open chromatin
+- [High-throughput sequencing of the transcriptome and chromatin accessibility in the same cel, Chen et al, 2019](https://pubmed.ncbi.nlm.nih.gov/31611697/)
 
 ##### Spatial transcriptomics
+- [RNA imaging. Spatially resolved, highly multiplexed RNA profiling in single cells, Chen et al, 2015](https://pubmed.ncbi.nlm.nih.gov/25858977/)
+- [Molecular, spatial, and functional single-cell profiling of the hypothalamic preoptic region, Moffitt et al, 2019](https://pubmed.ncbi.nlm.nih.gov/31611697/)
 
-##### Cell type statistics and validation
+##### Multimodal and cross-species integration
+- [Comprehensive integration of single cell data, Stuart et al, 2019](https://www.cell.com/cell/pdf/S0092-8674(19)30559-8.pdf)
+- [Single-Cell Multi-omic Integration Compares and Contrasts Features of Brain Cell Identity, Welch et al, 2019](https://www.sciencedirect.com/science/article/pii/S0092867419305045
+- [Characterizing the replicability of cell types defined by single cell RNA-sequencing data using MetaNeighbor. Crow et al, 2018](https://www.nature.com/articles/s41467-018-03282-0)
 
 ##### Electrophysiology, cellular morphology and transcriptomics
 
@@ -92,7 +95,7 @@ A series of companion studies supported the findings in this manuscript.
 
 - Brain Cell Data Center (BCDC), www.biccn.org
 - Neuroscience Multi-omic Data Archive (NeMO)[NeMO](https://nemoarchive.org), [Transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
-- Brain Image Library [BIL](https://www.brainimagelibrary.org), [Imaging data used in this study](https://www.brainimagelibrary.org/dataset)
+- Brain Image Library [BIL](https://www.brainimagelibrary.org), [Imaging data used in this study](https://submit.brainimagelibrary.org/search)
 - Distributed Archives for Neurophysiology Data Integration [DANDI](https://www.dandiarchive.org) 
 
 #### Other Key Resources
