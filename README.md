@@ -75,7 +75,7 @@ The following papers are referenced techniques other than those in the companion
 
 ##### Multimodal and cross-species integration
 - [Comprehensive integration of single cell data, Stuart et al, 2019](https://www.cell.com/cell/pdf/S0092-8674(19)30559-8.pdf)
-- [Single-Cell Multi-omic Integration Compares and Contrasts Features of Brain Cell Identity, Welch et al, 2019] (https://www.sciencedirect.com/science/article/pii/S0092867419305045
+- [Single-Cell Multi-omic Integration Compares and Contrasts Features of Brain Cell Identity, Welch et al, 2019](https://www.sciencedirect.com/science/article/pii/S0092867419305045
 - [Characterizing the replicability of cell types defined by single cell RNA-sequencing data using MetaNeighbor. Crow et al, 2018](https://www.nature.com/articles/s41467-018-03282-0)
 
 ##### Electrophysiology, cellular morphology and transcriptomics
