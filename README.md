@@ -257,7 +257,7 @@ Panel c
 | Rbp4 L5 IT+ET | Rbp4-Cre_KL100-948130129 | 948130129| Allen	| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/) |
 | Sim1 L5 ET |	Sim1-Cre_KJ18-297711339	| 297711339 |	Allen |	[Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/)
 | Ntsr1 L6 CT |	Ntsr1-Cre_GN220-159651060 | 159651060 |	Allen |	[Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Viral_Tracer_Data_in_MOp_25_um_nrrd/)
-| IT projections |	L2/3_Cux2-CreERT2-18453_3456_x24161_y6646 |	18453_3456_x24161_y6646	 | Allen |[Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/
+| IT projections |	L2/3_Cux2-CreERT2-18453_3456_x24161_y6646 |	18453_3456_x24161_y6646	 | Allen |[Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/)
 | IT projections |	L4_Cux2-CreERT2-18864_3338_x3396_y21865	 | 18864_3338_x3396_y21865 |	Allen	| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/) |
 | IT projections |	L5_AA0271 [A]	| AA0271 [A] |	MouseLight |	[Data link](http://ml-neuronbrowser.janelia.org/)
 | ET projections |	L5_+MY+TH_Fezf2-CreERT2-182725_3762_x5563_y19178 |	182725_3762_x5563_y19178 |	Allen	| [Data link](http://download.alleninstitute.org/publications/cellular_anatomy_of_the_mouse_primary_motor_cortex/Single_Cell_Reconstructions_in_MOp/) |
