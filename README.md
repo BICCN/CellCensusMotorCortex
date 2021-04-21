@@ -94,7 +94,7 @@ The following papers are referenced techniques other than those in the companion
 - [Genetic dissection of glutamatergic neuron subpopulations and developmental trajectories in the cerebral cortex, Matho et al,2020](www.biorxiv.org/content/10.1101/2020.04.22.054064v1)
 
 
-#### Primary Data Resources
+#### Primary Data Archives
 
 - Brain Cell Data Center (BCDC), www.biccn.org
 - Neuroscience Multi-omic Data Archive (NeMO)[NeMO](https://nemoarchive.org), [Transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
