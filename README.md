@@ -17,16 +17,17 @@ We report the generation of a multimodal cell census and atlas of the mammalian 
 A series of companion studies supported the findings in this manuscript.
 
 - [An integrated transcriptomic and epigenomic atlas of mouse primary motor cortex cell types, Yao et al., 2020](https://www.biorxiv.org/content/10.1101/2020.02.29.970558v2)
-- [Evolution of cellular diversity in primary motor cortex of human, marmoset monkey, and mouse, Bakken et al., 2020](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2)
-- [Heterogeneity of Human Neuroepithelial Cells and Radial Glia, Eze et al., 2020](https://www.biorxiv.org/content/10.1101/2020.03.06.981423v1)
+- [Evolution of cellular diversity in primary motor cortex of human, marmoset monkey, and mouse, Bakken et al., 2020](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2) 
 - [Molecular, spatial and projection diversity of neurons in primary motor cortex revealed by in situ single-cell transcriptomics, Zhang et al, 2020](https://www.biorxiv.org/content/10.1101/2020.06.04.105700v1)
 - [Phenotypic variation of transcriptomic cell types in mouse motor cortex, Scala et al, 2020](https://www.nature.com/articles/s41586-020-2907-3) 
 - [Cellular Anatomy of the Mouse Primary Motor Cortex, Munoz-Casteneda, 2020](https://www.biorxiv.org/content/10.1101/2020.10.02.323154v1)
 - [Genetic dissection of glutamatergic neuron subpopulations and developmental trajectories in the cerebral cortex, Matho et al,2020](www.biorxiv.org/content/10.1101/2020.04.22.054064v1)
 - [DNA Methylation Atlas of the Mouse Brain at Single-Cell Resolution, Liu et al., 2020](https://www.biorxiv.org/content/10.1101/2020.04.30.069377v1) 
 - [Epigenomic Diversity of Cortical Projection Neurons in the Mouse Brain, Zhang et al., 2020](https://www.biorxiv.org/content/10.1101/2020.04.01.019612v1) 
-- [An atlas of gene regulatory elements in Adult Mouse Cerebrum, Li et al, 2020](https://www.biorxiv.org/content/10.1101/2020.05.10.087585v1)
-- [A transcriptomic atlas of the mouse cerebellum reveals regional specializations and novel cell types, Kozareva et al, 2020](https://www.biorxiv.org/content/10.1101/2020.03.04.976407v1)
+- [An atlas of gene regulatory elements in Adult Mouse Cerebrum, Li et al, 2020](https://www.biorxiv.org/content/10.1101/2020.05.10.087585v1) 
+- [Human cortical expansion involves diversification and specialization of supragranular intratelencephalic-projecting neurons, Berg et al,2020](https://www.biorxiv.org/content/10.1101/2020.03.31.018820v1)
+- [Brain-wide single neuron reconstruction reveals morphological diversity in molecularly defined striatal, thalamic, cortical and claustral neuron types, Peng et al,2020](https://www.biorxiv.org/content/10.1101/675280v3)
+ 
 
 
 ## Main Figures
@@ -66,6 +67,7 @@ The following papers are referenced techniques other than those in the companion
 - [Conserved cell types with divergent features in human versus mouse cortex, Hodge et al, 2019](https://www.nature.com/articles/s41586-019-1506-7)
 - [Innovations present in the primate interneuron repertoire, Krienen, 2020](https://www.nature.com/articles/s41586-020-2781-z?proof=t)
 - [A transcriptomic atlas of the mouse cerebellum reveals regional specializations and novel cell types, Kozareva et al., 2020](https://www.biorxiv.org/content/10.1101/2020.03.04.976407v1)
+- [A taxonomy of transcriptomic cell types across the isocortex and hippocampal formation, Yao et al, 2020](https://www.biorxiv.org/content/10.1101/2020.03.30.015214v1)
  
  ##### DNA Methylation
 - [Robust single-cell DNA methylome profiling with snmC-seq2, Luo, et al. 2018](https://www.nature.com/articles/s41467-018-06355-2)
