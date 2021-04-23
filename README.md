@@ -109,8 +109,8 @@ The following papers are referenced techniques other than those in the companion
 
 | Resource | Description | Link | RRID |
 | :- | :- | :- | :- |
-| CATlas | Atlas of Cis-elements gene regulatory elements | [CATlas](http://catlas.org/mousebrain/), [RRID:SCR_018690](https://n2t.net/RRID:SCR_018690)
-| LIGER | Integrating multiple single cell datasets | [LIGER](https://github.com/welch-lab/liger)
+| CATlas | Atlas of Cis-elements gene regulatory elements | [CATlas](http://catlas.org/mousebrain/) | [RRID:SCR_018690](https://n2t.net/RRID:SCR_018690)
+| LIGER | Integrating multiple single cell datasets | [LIGER](https://github.com/welch-lab/liger) | [RRID:SCR_018100](https://n2t.net/RRID:SCR_018100)
 | Neuromorpho |  Inventory of digital reconstructed neurons | [Neuromorpho](www.neuromorpho.org) 
 | MetaNeighbor | Characterizing cell type replicability |[MetaNeighbor](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fgillislab%2FMetaNeighbor-Protocol&amp;data=04%7C01%7C%7Cfe6189e9c6fa4888d1a508d9042e44cf%7C32669cd6737f4b398bddd6951120d3fc%7C0%7C0%7C637545419050652251%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=XOsmVXMpGnmATEcM3u1BN97V%2Bpw%2BffTwCnrVpx3WmFg%3D&amp;reserved=0)
 | Patch-Seq | Companion resources | [PatchSeq](https://urldefense.proofpoint.com/v2/url?u=https-3A__github.com_berenslab_mini-2Datlas&d=DwIBaQ&c=ZQs-KZ8oxEw0p81sqgiaRA&r=TOErb48ffhIZHBELSPkG7Jgv9X76YqhHVVf-x3lD1j0&m=cuTviTjS2Y-yfryeAzdFiWNL5kh7u3UQMjLQRZgoR8M&s=jxj_F6iOlAMyLNPdSR3ZDTZeiQf0PgWQNY7CcYXmNHA&e=) 
