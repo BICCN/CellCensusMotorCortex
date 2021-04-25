@@ -280,7 +280,7 @@ Panels d-i
 | Tle4	| Tle4-CreER;LSL-Flp |	180816	| Huang |	[Viewer](http://brainarchitecture.org/viewer4/mouse/map/8421F)
 				
 #### Analysis and code for main figure				
-panel c	https://github.com/AllenInstitute/MOp_anatomy_rendering	code to reproduce rendering of registered data in 3D		
+Panel c	[Rendering of registered data in 3D](https://github.com/AllenInstitute/MOp_anatomy_rendering)	 		
 				
 				
 ### *Figure 8: Existence of L4 excitatory neurons in MOp*
