@@ -96,6 +96,7 @@ The following papers are referenced techniques other than those in the companion
 ##### Cellular morphology
 - [High-throughput dual-colour precision imaging for brain-wide connectome with cytoarchitectonic landmarks at the cellular level, Gong et al., 2016](https://www.nature.com/articles/ncomms12142)
 - [Reconstruction of 1,000 Projection Neurons Reveals New Cell Types and Organization of Long-Range Connectivity in the Mouse Brain, Winnubst et al. 2019](https://www.sciencedirect.com/science/article/pii/S0092867419308426)
+- [An open repository for single-cell reconstructions of the brain forest, Akram et al, 2018](https://www.nature.com/articles/sdata20186)
 
 ##### Inter-areal circuit 
 - [Neural networks of the mouse cortex, Zingg et al., 2014](https://www.cell.com/fulltext/S0092-8674(14)00222-0)
@@ -104,6 +105,10 @@ The following papers are referenced techniques other than those in the companion
 ##### Genetic tools
 - [Genetic dissection of glutamatergic neuron subpopulations and developmental trajectories in the cerebral cortex, Matho et al., 2020](www.biorxiv.org/content/10.1101/2020.04.22.054064v1)
 
+#### Cellular census quantification
+ 
+- [Operations Research Methods for Estimating the Population Size of Neuron Types, Attili et al.,2020](https://link.springer.com/article/10.1007/s10479-020-03542-7)
+
 
 #### Other Key Resources
 
@@ -111,7 +116,7 @@ The following papers are referenced techniques other than those in the companion
 | :- | :- | :- | :- |
 | CATlas | Atlas of Cis-elements gene regulatory elements | [CATlas](http://catlas.org/mousebrain/) | [RRID:SCR_018690](https://n2t.net/RRID:SCR_018690)
 | LIGER | Integrating multiple single cell datasets | [LIGER](https://github.com/welch-lab/liger) | [RRID:SCR_018100](https://n2t.net/RRID:SCR_018100)
-| Neuromorpho |  Inventory of digital reconstructed neurons | [Neuromorpho](www.neuromorpho.org) | [RRID:SCR_002145](https://n2t.net/RRID:SCR_002145)
+| Neuromorpho.org |  Inventory of digital reconstructed neurons | [Neuromorpho](www.neuromorpho.org) | [RRID:SCR_002145](https://n2t.net/RRID:SCR_002145)
 | MetaNeighbor | Characterizing cell type replicability |[MetaNeighbor](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fgillislab%2FMetaNeighbor-Protocol&amp;data=04%7C01%7C%7Cfe6189e9c6fa4888d1a508d9042e44cf%7C32669cd6737f4b398bddd6951120d3fc%7C0%7C0%7C637545419050652251%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=XOsmVXMpGnmATEcM3u1BN97V%2Bpw%2BffTwCnrVpx3WmFg%3D&amp;reserved=0) | [RRID:SCR_016727](https://n2t.net/RRID:SCR_016727)
 | Patch-Seq | Companion resources | [Mini-atlas PatchSeq](https://urldefense.proofpoint.com/v2/url?u=https-3A__github.com_berenslab_mini-2Datlas&d=DwIBaQ&c=ZQs-KZ8oxEw0p81sqgiaRA&r=TOErb48ffhIZHBELSPkG7Jgv9X76YqhHVVf-x3lD1j0&m=cuTviTjS2Y-yfryeAzdFiWNL5kh7u3UQMjLQRZgoR8M&s=jxj_F6iOlAMyLNPdSR3ZDTZeiQf0PgWQNY7CcYXmNHA&e=) | [RRID:SCR_021115](https://n2t.net/RRID:SCR_021115)
 | Allen CCF | Allen Mouse Brain Common Coordinate Framework | [Atlas viewer](http://atlas.brain-map.org/) | [RRID:SCR_020999](https://identifiers.org/RRID:SCR_020999)
