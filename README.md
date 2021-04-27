@@ -172,7 +172,7 @@ Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 #### High-resolution primary data								
 
 Panel a:
-- [Patch-seq mouse transcriptomic data in FASTQ format](http://data.nemoarchive.org/biccn/grant/zeng/tolias/)
+- [Patch-seq mouse transcriptomic data in FASTQ format](http://data.nemoarchive.org/biccn/lab/tolias/transcriptome/scell/PATCHseq/mouse/raw/)
 - [Biccn/grant/zeng/zeng/transcriptome](http://data.nemoarchive.org/biccn/grant/zeng/zeng/)					
 
 Panels b-g:	
@@ -181,10 +181,10 @@ Panels b-g:
 								
 
 Panel h:	 	
-- [10x V3 macaque](http://data.nemoarchive.org/biccn/lab/lein/lein/transcriptomic/sncell/raw/)					
-- [10x V3 human (10X159-1 through 10x160-8)](http://data.nemoarchive.org/biccn/lab/linnarsson/transcriptome/sncell/10X/raw/10X159-1/)
-- [10x V3 marmoset (bi005_m1, bi006_m1)](http://data.nemoarchive.org/biccn/lab/feng/transcriptome/sncell/raw/)					
-- [10x V3 mouse Broad data (files with prefix pBICCNsMMrMOp)](http://data.nemoarchive.org/biccn/grant/huang/macosko/transcriptome/sncell/raw)					
+- [10x V3 macaque](http://data.nemoarchive.org/biccn/lab/lein/transcriptome/sncell/10x_v3/macaque/raw/)					
+- [10x V3 human (10X159-1 through 10x160-8)](http://data.nemoarchive.org/biccn/lab/linnarsson/transcriptome/sncell/10x_v3/human/raw/)
+- [10x V3 marmoset (bi005_m1, bi006_m1)](http://data.nemoarchive.org/biccn/lab/mccarroll/transcriptome/sncell/10Xv3/marmoset/raw/)				
+- [10x V3 mouse Broad data (files with prefix pBICCNsMMrMOp)](http://data.nemoarchive.org/biccn/lab/macosko_regev/transcriptome/sncell/10X_v3/mouse/raw/)					
 Panels i-k:
 - [Electrophophysiology in NWB format](https://dandiarchive.org/dandiset/000043/draft)					
 - [Morphological reconstructions in SWC format](https://download.brainimagelibrary.org/79/1d/791d4ad4b5663855/)					
@@ -194,8 +194,8 @@ Panels i-k:
 #### Analysis and code for main figure			
 
 Panel h:	
-- [10x 4 species integration](http://data.nemoarchive.org/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/cross_species_integration/sample.combined_exc_4_species_integration.RDS)
-- [Code](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/projecting_patch_seq_onto_umap)
+- [10x 4 species integration](http://data.nemoarchive.org/publication_release/Lein_2020_M1_study_analysis/Transcriptomics/sncell/10X/human/processed/analysis/analysis/M1/cross_species_integration/sample.combined_exc_4_species_integration.RDS)
+- [Code]http://data.nemoarchive.org/publication_release/Lein_2020_M1_study_analysis/Transcriptomics/sncell/10X/human/processed/analysis/analysis/M1/flagship/projecting_patch_seq_onto_umap/)
  
 Panels a-g:	
 - [Code](https://github.com/berenslab/mini-atlas/blob/master/code/flagship-figure.ipynb)						
