@@ -136,7 +136,7 @@ The following papers are referenced techniques other than those in the companion
 | Patch-Seq | Companion resources | [Mini-atlas PatchSeq](https://urldefense.proofpoint.com/v2/url?u=https-3A__github.com_berenslab_mini-2Datlas&d=DwIBaQ&c=ZQs-KZ8oxEw0p81sqgiaRA&r=TOErb48ffhIZHBELSPkG7Jgv9X76YqhHVVf-x3lD1j0&m=cuTviTjS2Y-yfryeAzdFiWNL5kh7u3UQMjLQRZgoR8M&s=jxj_F6iOlAMyLNPdSR3ZDTZeiQf0PgWQNY7CcYXmNHA&e=) | [RRID:SCR_021115](https://n2t.net/RRID:SCR_021115)
 | Allen CCF | Allen Mouse Brain Common Coordinate Framework | [Atlas viewer](http://atlas.brain-map.org/) | [RRID:SCR_020999](https://identifiers.org/RRID:SCR_020999)
 | MORF Reporter | Reporter mouse resource page| [MORF](http://www.morf-brain.com/) |  [RRID:SCR_021125](https://n2t.net/RRID:SCR_021125) 
- Individual Mice from MORF  [RRID:IMSR_JAX:035403](https://n2t.net/RRID:IMSR_JAX:035404), [RRID:IMSR_JAX:035400](https://n2t.net/RRID:IMSR_JAX:035400), [RRID:IMSR_JAX:035404](https://n2t.net/RRID:IMSR_JAX:035404)
+||| Individual Mice from MORF  |[RRID:IMSR_JAX:035403](https://n2t.net/RRID:IMSR_JAX:035404), [RRID:IMSR_JAX:035400](https://n2t.net/RRID:IMSR_JAX:035400), [RRID:IMSR_JAX:035404](https://n2t.net/RRID:IMSR_JAX:035404)
 | CCN | Common Cell Type Nomenclature| [CCN](https://portal.brain-map.org/explore/classes/nomenclature) | [RRID:SCR_021124](https://n2t.net/RRID:SCR_021124)  
 
 Note, individual tools created by or used by the BICCN consortium are accessible via the [resource registry](https://scicrunch.org/scicrunch/Resources/search?q=BICCN&l=BICCN).
