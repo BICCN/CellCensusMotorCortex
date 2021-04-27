@@ -128,7 +128,7 @@ The following papers are referenced techniques other than those in the companion
 
 | Resource | Description | Link | RRID |
 | :- | :- | :- | :- |
-| NeMO Analytics | Companion resources | [NeMO](https://sites.google.com/view/nemoanalytics-biccn/home)
+| NeMO Analytics | Companion resources | [NeMO](https://sites.google.com/view/nemoanalytics-biccn/home) | [RRID:SCR_018164](https://n2t.net/RRID:SCR_018164)
 | CATlas | Atlas of Cis-elements gene regulatory elements | [CATlas](http://catlas.org/mousebrain/) | [RRID:SCR_018690](https://n2t.net/RRID:SCR_018690)
 | LIGER | Integrating multiple single cell datasets | [LIGER](https://github.com/welch-lab/liger) | [RRID:SCR_018100](https://n2t.net/RRID:SCR_018100)
 | Neuromorpho.org |  Inventory of digital reconstructed neurons | [Neuromorpho](www.neuromorpho.org) | [RRID:SCR_002145](https://n2t.net/RRID:SCR_002145)
