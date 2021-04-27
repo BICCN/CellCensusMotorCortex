@@ -54,7 +54,9 @@ Data and supporting codes related to analyses in figures.
  
 All primary data is accessible through the Brain Cell Data Center (BCDC) and data archives.
 
-- Brain Cell Data Center (BCDC), www.biccn.org
+- Brain Cell Data Center (BCDC), Overall BICCN organization and data www.biccn.org
+[<img src="https://user-images.githubusercontent.com/39201252/116289645-83c25600-a747-11eb-9ccc-be07524a4ad7.png" height=200/>](https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png)
+
 - Neuroscience Multi-omic Data Archive (NeMO), [NeMO](https://nemoarchive.org), [Transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
 - Brain Image Library, [BIL](https://www.brainimagelibrary.org), [Imaging data used in this study](https://submit.brainimagelibrary.org/search)
 - Distributed Archives for Neurophysiology Data Integration, [DANDI](https://www.dandiarchive.org) 
