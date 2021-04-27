@@ -66,8 +66,9 @@ All primary data is accessible through the Brain Cell Data Center and data archi
 [<img src="https://user-images.githubusercontent.com/39201252/116293892-2d0b4b00-a74c-11eb-954e-9a0453e0d21f.png" height=100/>](https://assets.nemoarchive.org/dat-ch1nqb7) [<img src="https://user-images.githubusercontent.com/39201252/116293828-1d8c0200-a74c-11eb-9c88-849b88f0862d.png" height=100/>](https://submit.brainimagelibrary.org/search) [<img src="https://user-images.githubusercontent.com/39201252/116297068-c425d200-a74f-11eb-80fb-051e8da1f582.png" height=100/>](https://gui.dandiarchive.org/#/)
 
 
+*Analysis platform for BICCN -omics datasets*
 
-**NeMO Analytics**, Analysis platform for BICCN -omics datasets
+**NeMO Analytics**, 
 
 [<img src="https://user-images.githubusercontent.com/39201252/116289645-83c25600-a747-11eb-9ccc-be07524a4ad7.png" height=200/>](https://nemoanalytics.org/p?l=1b58cf00&g=gad2)  [<img src="https://user-images.githubusercontent.com/39201252/116290781-b456bf80-a748-11eb-8a11-cfac871b5156.png" height=200/>](https://nemoanalytics.org/p?l=7e14ad94&g=gad2)[<img src="https://user-images.githubusercontent.com/39201252/116290906-d6504200-a748-11eb-9077-5b864bb4fba1.png" height=200/>](https://nemoanalytics.org/p?l=c4416938&g=gad2)
 
