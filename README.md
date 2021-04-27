@@ -54,16 +54,16 @@ Data and supporting codes related to analyses in figures.
  
 All primary data is accessible through the Brain Cell Data Center (BCDC) and data archives.
 
-- Brain Cell Data Center (BCDC), Overall BICCN organization and data www.biccn.org
+- **Brain Cell Data Center (BCDC)**, Overall BICCN organization and data www.biccn.org
 
 [<img src="https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png" height=150/>](https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png)
 
-- Neuroscience Multi-omic Data Archive (NeMO), [NeMO](https://nemoarchive.org), [Transcriptomics and epigenomics data in this study]
+- **Neuroscience Multi-omic Data Archive (NeMO)**, [NeMO](https://nemoarchive.org)  
 
 [<img src="https://user-images.githubusercontent.com/39201252/116293892-2d0b4b00-a74c-11eb-954e-9a0453e0d21f.png" height=150/>]((https://assets.nemoarchive.org/dat-ch1nqb7))
 
 
-- Brain Image Library, [BIL](https://www.brainimagelibrary.org), [Imaging data used in this study](https://submit.brainimagelibrary.org/search)
+- **Brain Image Library (BIL) [BIL](https://www.brainimagelibrary.org),  (https://submit.brainimagelibrary.org/search)
 
 
 [<img src="https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png" height=150/>](https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png)
