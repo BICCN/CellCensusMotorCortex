@@ -58,12 +58,12 @@ Primary data archives
 
 - **Neuroscience Multi-omic Data Archive (NeMO)**, [NeMO](https://nemoarchive.org)
 
-- **Brain Image Library (BIL)** [BIL](https://www.brainimagelibrary.org)
+- **Brain Image Library (BIL)**, [BIL](https://www.brainimagelibrary.org)
 
 - **Distributed Archives for Neurophysiology Data Integration (DANDI)**, [DANDI](https://www.dandiarchive.org) 
 
 
-- [<img src="https://user-images.githubusercontent.com/39201252/116293892-2d0b4b00-a74c-11eb-954e-9a0453e0d21f.png" height=100/>](https://assets.nemoarchive.org/dat-ch1nqb7) [<img src="https://user-images.githubusercontent.com/39201252/116293828-1d8c0200-a74c-11eb-9c88-849b88f0862d.png" height=100/>](https://submit.brainimagelibrary.org/search) [<img src="https://user-images.githubusercontent.com/39201252/116297068-c425d200-a74f-11eb-80fb-051e8da1f582.png" height=150/>](https://gui.dandiarchive.org/#/)
+[<img src="https://user-images.githubusercontent.com/39201252/116293892-2d0b4b00-a74c-11eb-954e-9a0453e0d21f.png" height=100/>](https://assets.nemoarchive.org/dat-ch1nqb7) [<img src="https://user-images.githubusercontent.com/39201252/116293828-1d8c0200-a74c-11eb-9c88-849b88f0862d.png" height=100/>](https://submit.brainimagelibrary.org/search) [<img src="https://user-images.githubusercontent.com/39201252/116297068-c425d200-a74f-11eb-80fb-051e8da1f582.png" height=100/>](https://gui.dandiarchive.org/#/)
 
 - **NeMO Analytics**, Analysis platform for BICCN -omics datasets
 
