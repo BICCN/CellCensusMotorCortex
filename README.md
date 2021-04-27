@@ -54,7 +54,7 @@ All primary data is accessible through the Brain Cell Data Center and data archi
 
 - **Brain Cell Data Center (BCDC)**, Overall BICCN organization and data, www.biccn.org
  
-BRAIN Initiative Data Archives
+*BRAIN Initiative Data Archives*
 
 - **Neuroscience Multi-omic Data Archive (NeMO)**, [NeMO](https://nemoarchive.org)
 
