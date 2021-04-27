@@ -60,9 +60,7 @@ All primary data is accessible through the Brain Cell Data Center (BCDC) and dat
 - Distributed Archives for Neurophysiology Data Integration, [DANDI](https://www.dandiarchive.org) 
 
 
-[<img src="https://user-images.githubusercontent.com/39201252/116289645-83c25600-a747-11eb-9ccc-be07524a4ad7.png" height=200/>](https://nemoanalytics.org/p?l=1b58cf00&g=gad2)
-
-
+[<img src="https://user-images.githubusercontent.com/39201252/116289645-83c25600-a747-11eb-9ccc-be07524a4ad7.png" height=200/>](https://nemoanalytics.org/p?l=1b58cf00&g=gad2) [https://user-images.githubusercontent.com/39201252/116290781-b456bf80-a748-11eb-8a11-cfac871b5156.png](https://nemoanalytics.org/p?l=7e14ad94&g=gad2)
 
 #### Techniques and methods 
 The following papers are referenced techniques other than those in the companion papers.
