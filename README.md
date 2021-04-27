@@ -136,7 +136,7 @@ The following papers are referenced techniques other than those in the companion
 | Patch-Seq | Companion resources | [Mini-atlas PatchSeq](https://urldefense.proofpoint.com/v2/url?u=https-3A__github.com_berenslab_mini-2Datlas&d=DwIBaQ&c=ZQs-KZ8oxEw0p81sqgiaRA&r=TOErb48ffhIZHBELSPkG7Jgv9X76YqhHVVf-x3lD1j0&m=cuTviTjS2Y-yfryeAzdFiWNL5kh7u3UQMjLQRZgoR8M&s=jxj_F6iOlAMyLNPdSR3ZDTZeiQf0PgWQNY7CcYXmNHA&e=) | [RRID:SCR_021115](https://n2t.net/RRID:SCR_021115)
 | Allen CCF | Allen Mouse Brain Common Coordinate Framework | [Atlas viewer](http://atlas.brain-map.org/) | [RRID:SCR_020999](https://identifiers.org/RRID:SCR_020999)
 | MORF Reporter | Reporter mouse resource page| [MORF](http://www.morf-brain.com/) |  
-
+| CCN | Common Cell Type Nomenclature| [CCN](https://portal.brain-map.org/explore/classes/nomenclature) |  
 
 ### *Figure 2: MOp consensus cell type taxonomy*
 
