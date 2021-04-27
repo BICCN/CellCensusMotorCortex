@@ -195,7 +195,7 @@ Panels i-k:
 
 Panel h:	
 - [10x 4 species integration](http://data.nemoarchive.org/publication_release/Lein_2020_M1_study_analysis/Transcriptomics/sncell/10X/human/processed/analysis/analysis/M1/cross_species_integration/sample.combined_exc_4_species_integration.RDS)
-- [Code]http://data.nemoarchive.org/publication_release/Lein_2020_M1_study_analysis/Transcriptomics/sncell/10X/human/processed/analysis/analysis/M1/flagship/projecting_patch_seq_onto_umap/)
+-[Code]http://data.nemoarchive.org/publication_release/Lein_2020_M1_study_analysis/Transcriptomics/sncell/10X/human/processed/analysis/analysis/M1/flagship/projecting_patch_seq_onto_umap/)
  
 Panels a-g:	
 - [Code](https://github.com/berenslab/mini-atlas/blob/master/code/flagship-figure.ipynb)						
