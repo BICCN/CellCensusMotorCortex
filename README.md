@@ -56,12 +56,25 @@ All primary data is accessible through the Brain Cell Data Center (BCDC) and dat
 
 - Brain Cell Data Center (BCDC), Overall BICCN organization and data www.biccn.org
 
-[<img src="https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png" height=200/>](https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png)
+[<img src="https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png" height=150/>](https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png)
 
-- Neuroscience Multi-omic Data Archive (NeMO), [NeMO](https://nemoarchive.org), [Transcriptomics and epigenomics data in this study](https://assets.nemoarchive.org/dat-ch1nqb7)
+- Neuroscience Multi-omic Data Archive (NeMO), [NeMO](https://nemoarchive.org), [Transcriptomics and epigenomics data in this study]
+
+[<img src="https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png" height=150/>](https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png)
+
+- (https://assets.nemoarchive.org/dat-ch1nqb7)
+
+
+
 - Brain Image Library, [BIL](https://www.brainimagelibrary.org), [Imaging data used in this study](https://submit.brainimagelibrary.org/search)
+
+
+[<img src="https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png" height=150/>](https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png)
+
 - Distributed Archives for Neurophysiology Data Integration, [DANDI](https://www.dandiarchive.org) 
 
+
+[<img src="https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png" height=150/>](https://user-images.githubusercontent.com/39201252/116293977-47452900-a74c-11eb-9a1d-9172a1a03e0b.png)
 
 [<img src="https://user-images.githubusercontent.com/39201252/116289645-83c25600-a747-11eb-9ccc-be07524a4ad7.png" height=200/>](https://nemoanalytics.org/p?l=1b58cf00&g=gad2)  [<img src="https://user-images.githubusercontent.com/39201252/116290781-b456bf80-a748-11eb-8a11-cfac871b5156.png" height=200/>](https://nemoanalytics.org/p?l=7e14ad94&g=gad2)[<img src="https://user-images.githubusercontent.com/39201252/116290906-d6504200-a748-11eb-9077-5b864bb4fba1.png" height=200/>](https://nemoanalytics.org/p?l=c4416938&g=gad2)
 
