@@ -129,30 +129,30 @@ The following papers are referenced techniques other than those in the companion
 [Panel 2a](http://data.nemoarchive.org/publication_release/MOp_MiniAtlas_2020/)
 
 Panels 2b-2g: 
-- [10x V3 macaque](http://data.nemoarchive.org/biccn/lab/lein/lein/transcriptomic/sncell/raw/)
-- [10x V3 human (10X159-1 through 10x160-8)](http://data.nemoarchive.org/biccn/lab/linnarsson/transcriptome/sncell/10X/raw/10X159-1/)
-- [10x V3 marmoset (bi005_m1, bi006_m1)](http://data.nemoarchive.org/biccn/lab/feng/transcriptome/sncell/raw/)
-- [10x V3 mouse Broad data (files with prefix pBICCNsMMrMOp)](http://data.nemoarchive.org/biccn/grant/huang/macosko/transcriptome/sncell/raw)
+- [10x V3 macaque]( http://data.nemoarchive.org/biccn/lab/lein/transcriptome/sncell/10x_v3/macaque/raw/)
+- [10x V3 human (10X159-1 through 10x160-8)](http://data.nemoarchive.org/biccn/lab/linnarsson/transcriptome/sncell/10x_v3/human/raw/)
+- [10x V3 marmoset (bi005_m1, bi006_m1)](http://data.nemoarchive.org/biccn/lab/mccarroll/transcriptome/sncell/10Xv3/marmoset/raw/)
+- [10x V3 mouse Broad data (files with prefix pBICCNsMMrMOp)](http://data.nemoarchive.org/biccn/lab/macosko_regev/transcriptome/sncell/10X_v3/mouse/raw/)
 	
 #### Analysis and code for main figure			
 [Panel 2a](https://github.com/mukamel-lab/BICCN-Mouse-MOp/tree/master/flagship_fig2a)	
 
 Panel 2b:	Dendrogram reproduced from companion paper (Bakken et al. 2020)		
 
-[Panel 2c](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/dendrogram_barplot)
+[Panel 2c](http://data.nemoarchive.org/publication_release/Lein_2020_M1_study_analysis/Transcriptomics/sncell/10X/human/processed/analysis/analysis/M1/flagship/dendrogram_barplots/)
 
-[Panels 2d, 2e](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/dendrogram_heatmap)
+[Panels 2d, 2e](http://data.nemoarchive.org/publication_release/Lein_2020_M1_study_analysis/Transcriptomics/sncell/10X/human/processed/analysis/analysis/M1/flagship/dendrogram_heatmaps/)
 
 Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 
-[Panel 2h](http://data.nemoarchive.org/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/cross_species_heatmap/GABAergic_avg_CP100K_expr.csv.gz)
+[Panel 2h](http://data.nemoarchive.org/publication_release/Lein_2020_M1_study_analysis/Transcriptomics/sncell/10X/human/processed/analysis/analysis/M1/flagship/cross_species_heatmap/)
 
 [Panel 2i: Custom UCSC browser of all M1 tracks](https://genome.ucsc.edu/s/sarojas/hg38-mop-dense)	
 
 #### Extended or supplementary data figures			
 [Panel 2j: Browser](https://brainome.ucsd.edu/annoj/BICCN_MOp/)		
 
-[Extended Data Figure 1](http://data.nemoarchive.org/brain/biccn/lab/lein/2020_M1_study_analysis/Transcriptomics/flagship/cluster_overlap_plots)		
+[Extended Data Figure 1](http://data.nemoarchive.org/publication_release/Lein_2020_M1_study_analysis/Transcriptomics/sncell/10X/human/processed/analysis/analysis/M1/flagship/cluster_overlap_plots/)		
 
 
 
