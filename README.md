@@ -137,7 +137,8 @@ The following papers are referenced techniques other than those in the companion
 | Allen CCF | Allen Mouse Brain Common Coordinate Framework | [Atlas viewer](http://atlas.brain-map.org/) | [RRID:SCR_020999](https://identifiers.org/RRID:SCR_020999)
 | MORF Reporter | Reporter mouse resource page| [MORF](http://www.morf-brain.com/) |  [RRID:SCR_021125](https://n2t.net/RRID:SCR_021125)
 | CCN | Common Cell Type Nomenclature| [CCN](https://portal.brain-map.org/explore/classes/nomenclature) | [RRID:SCR_021124](https://n2t.net/RRID:SCR_021124)  
-Note, individual tools used by the BICCN consortium are accessible via a search through the [resource registry](https://scicrunch.org/scicrunch/Resources/search?q=BICCN&l=BICCN).
+
+Note, individual tools created by or used by the BICCN consortium are accessible via the [resource registry](https://scicrunch.org/scicrunch/Resources/search?q=BICCN&l=BICCN).
 
 ### *Figure 2: MOp consensus cell type taxonomy*
 
