@@ -60,7 +60,7 @@ All primary data is accessible through the Brain Cell Data Center (BCDC) and dat
 - Distributed Archives for Neurophysiology Data Integration, [DANDI](https://www.dandiarchive.org) 
 
 
-<img src="https://user-images.githubusercontent.com/39201252/115451895-99c59900-a1d2-11eb-801e-7c1578e91545.png" height=70/>
+<img src="https://github.com/BICCN/CellCensusMotorCortex/issues/2#issue-869107945" height=70/>
 
 
 
