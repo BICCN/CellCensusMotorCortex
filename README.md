@@ -183,7 +183,7 @@ Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 #### Analysis and code for main figure	
 [MERFISH data processing pipeline](https://github.com/ZhuangLab/MERlin)
 
-[Panel 3b](https://github.com/ZhuangLab/BICCN_MOp_2021/tree/main/flagship)
+[Panels 3a, b, e](https://github.com/ZhuangLab/BICCN_MOp_2021/tree/main/flagship)
 
 ### *Figure 4: Correspondence between transcriptomic and morpho-electrical properties of mouse MOp neurons by Patch-seq, and cross-species comparison of L5 ET neurons*
 
