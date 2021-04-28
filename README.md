@@ -60,7 +60,7 @@ All primary data is accessible through the Brain Cell Data Center and data archi
 
 - **Brain Image Library ([BIL](https://www.brainimagelibrary.org))**,  [RRID:SCR_017272](https://n2t.net/RRID:SCR_017272)
 
-- **Distributed Archives for Neurophysiology Data Integration ([DANDI](https://www.dandiarchive.org))**,  [RRID:SCR_017571](https://n2t.net/RRID:SCR_017571)
+- **Distributed Archives for Neurophysiology Data Integration ([DANDI](https://dandiarchive.org))**,  [RRID:SCR_017571](https://n2t.net/RRID:SCR_017571)
 
 
 [<img src="https://user-images.githubusercontent.com/39201252/116293892-2d0b4b00-a74c-11eb-954e-9a0453e0d21f.png" height=100/>](https://assets.nemoarchive.org/dat-ch1nqb7) [<img src="https://user-images.githubusercontent.com/39201252/116293828-1d8c0200-a74c-11eb-9c88-849b88f0862d.png" height=100/>](https://submit.brainimagelibrary.org/search) [<img src="https://user-images.githubusercontent.com/39201252/116297068-c425d200-a74f-11eb-80fb-051e8da1f582.png" height=100/>](https://gui.dandiarchive.org/#/)
@@ -205,7 +205,7 @@ Panel h:
 - [10x V3 mouse Broad data (files with prefix pBICCNsMMrMOp)](http://data.nemoarchive.org/biccn/lab/macosko_regev/transcriptome/sncell/10X_v3/mouse/raw/)	
 
 Panels i-k:
-- [Electrophophysiology in NWB format](https://dandiarchive.org/dandiset/000043/draft)					
+- [Electrophophysiology in NWB format](https://dandiarchive.org/dandiset/000043/)					
 - [Morphological reconstructions in SWC format](https://download.brainimagelibrary.org/79/1d/791d4ad4b5663855/)					
 
 														
