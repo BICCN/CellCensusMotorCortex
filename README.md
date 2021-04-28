@@ -259,16 +259,12 @@ Panels d-k
 Panel j					
 | Label in Fig. | Full Descriptive ID | Experiment ID |	Originating Lab | *Brain Architecture* Viewer |BIL link |
 | :-- | :- |:- |:- |:- |:- |
-| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	GK01 |	Huang	| TBD	| TBD |
-| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	GK02 |	Huang	| TBD	| TBD |
-| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	GK03 |	Huang	| TBD	| TBD |
-| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	GK04 |	Huang	| TBD	| TBD |
-| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	GK05 |	Huang	| TBD	| TBD |
-| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5 |	GK11 |	Huang	| TBD	| TBD |
-| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5 |	GK12 |	Huang	| TBD	| TBD |
-| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5 |	GK13 |	Huang	| TBD	| TBD |
-| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5 |	GK14 |	Huang	| TBD	| TBD |
-| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5 |	GK15 |	Huang	| TBD	| TBD |
+| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	210203 |	Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/29160)| TBD |
+| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	210211 |	Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/29161)| TBD |
+| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	210301 |	Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/29162)| TBD |
+| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	210216 |	Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/29163)| TBD |
+| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	210222 |	Huang	| [Viewer]http://brainarchitecture.org/viewer4/mouse/map/29164) | TBD |
+| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5 |	210302 |	Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/29165)|  TBD | 
 					
 
 
