@@ -263,7 +263,7 @@ Panel j
 | PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	210211 |	Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/29161)| TBD |
 | PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	210301 |	Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/29162)| TBD |
 | PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	210216 |	Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/29163)| TBD |
-| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	210222 |	Huang	| [Viewer]http://brainarchitecture.org/viewer4/mouse/map/29164) | TBD |
+| PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E17.5 |	210222 |	Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/29164) | TBD |
 | PlxnD1-Tbr2 |	Tbr2-CreER;PlxnD1-Flp;dtTA TM E13.5 |	210302 |	Huang	| [Viewer](http://brainarchitecture.org/viewer4/mouse/map/29165)|  TBD | 
 					
 
