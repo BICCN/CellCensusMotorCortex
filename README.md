@@ -56,7 +56,7 @@ All primary data is accessible through the Brain Cell Data Center and data archi
  
 *BRAIN Initiative Data Archives*
 
-- **Neuroscience Multi-omic Data Archive ([NeMO](https://nemoarchive.org))**, [RRID:SCR_002001](https://n2t.net/RRID:SCR_002001)
+- **Neuroscience Multi-omic Data Archive ([NeMO](https://nemoarchive.org))**, [RRID:SCR_016152](https://n2t.net/RRID:SCR_016152)
 
 - **Brain Image Library ([BIL](https://www.brainimagelibrary.org))**,  [RRID:SCR_017272](https://n2t.net/RRID:SCR_017272)
 
