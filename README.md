@@ -70,7 +70,7 @@ All primary data is accessible through the Brain Cell Data Center and data archi
 
 - **NeMO Analytics** 
 
-<img src="https://user-images.githubusercontent.com/39201252/116289645-83c25600-a747-11eb-9ccc-be07524a4ad7.png" height=200/> 
+[<img src="https://user-images.githubusercontent.com/39201252/116600564-4b08b500-a8de-11eb-9cf5-90550c81d18b.png" height=200/>](www.nemoanalytics.org)
 
 [<img src="https://user-images.githubusercontent.com/39201252/116289645-83c25600-a747-11eb-9ccc-be07524a4ad7.png" height=200/>](https://nemoanalytics.org/p?l=1b58cf00&g=gad2)  [<img src="https://user-images.githubusercontent.com/39201252/116290781-b456bf80-a748-11eb-8a11-cfac871b5156.png" height=200/>](https://nemoanalytics.org/p?l=7e14ad94&g=gad2)[<img src="https://user-images.githubusercontent.com/39201252/116290906-d6504200-a748-11eb-9077-5b864bb4fba1.png" height=200/>](https://nemoanalytics.org/p?l=c4416938&g=gad2)
 
