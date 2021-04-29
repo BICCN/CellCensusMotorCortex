@@ -63,7 +63,7 @@ All primary data is accessible through the Brain Cell Data Center and data archi
 - **Distributed Archives for Neurophysiology Data Integration ([DANDI](https://dandiarchive.org))**,  [RRID:SCR_017571](https://n2t.net/RRID:SCR_017571)
 
 
-[<img src="https://user-images.githubusercontent.com/39201252/116293892-2d0b4b00-a74c-11eb-954e-9a0453e0d21f.png" height=100/>](https://assets.nemoarchive.org/dat-ch1nqb7) [<img src="https://user-images.githubusercontent.com/39201252/116293828-1d8c0200-a74c-11eb-9c88-849b88f0862d.png" height=100/>](https://submit.brainimagelibrary.org/search) [<img src="https://user-images.githubusercontent.com/39201252/116297068-c425d200-a74f-11eb-80fb-051e8da1f582.png" height=100/>](https://gui.dandiarchive.org/#/)
+[<img src="https://user-images.githubusercontent.com/39201252/116293892-2d0b4b00-a74c-11eb-954e-9a0453e0d21f.png" height=100/>](https://assets.nemoarchive.org/dat-ch1nqb7) [<img src="https://user-images.githubusercontent.com/39201252/116293828-1d8c0200-a74c-11eb-9c88-849b88f0862d.png" height=100/>](https://submit.brainimagelibrary.org/search) [<img src="https://user-images.githubusercontent.com/39201252/116297068-c425d200-a74f-11eb-80fb-051e8da1f582.png" height=100/>](https://dandiarchive.org/)
 
 
 *Analysis platform for BICCN -omics datasets*
@@ -206,7 +206,7 @@ Panels 2f, 2g:	Reproduced from companion paper (Bakken et al. 2020)
 | 4h | Transcriptomic characterization of cell types in human brain: 10x nuclei v3 | [Project Summary](https://knowledge.brain-map.org/data/3XNMGDZAHJR0CGM2Z5V/summary) | [NEMO](https://assets.nemoarchive.org/dat-ci7q9k4) |
 | 4h | A Molecular and Cellular Atlas of the Marmoset Brain - 10x v3 | [Project Summary](https://knowledge.brain-map.org/data/5O3GAQDWZK5ZM3IMWWB/summary) | [NEMO](https://assets.nemoarchive.org/dat-7jxfmkh) |
 | 4h | Transcriptomic cell types in the mouse brain: 10x nuclei (v3) (bi005_m1, bi006_m1) |  | [NEMO](https://assets.nemoarchive.org/dat-svco5za) |
-| 4i-k | Electrophysiological traces in NWB format |  | [DANDI](https://gui.dandiarchive.org/#/dandiset/000043/draft) |
+| 4i-k | Electrophysiological traces in NWB format |  | [DANDI](https://identifiers.org/DANDI:000043) |
 | 4i-k | Morphological reconstructions in SWC format |  | [BIL](https://download.brainimagelibrary.org/79/1d/791d4ad4b5663855/) |
 
 														
