@@ -70,6 +70,8 @@ All primary data is accessible through the Brain Cell Data Center and data archi
 
 - **NeMO Analytics** 
 
+<img src="https://user-images.githubusercontent.com/39201252/116289645-83c25600-a747-11eb-9ccc-be07524a4ad7.png" height=200/> 
+
 [<img src="https://user-images.githubusercontent.com/39201252/116289645-83c25600-a747-11eb-9ccc-be07524a4ad7.png" height=200/>](https://nemoanalytics.org/p?l=1b58cf00&g=gad2)  [<img src="https://user-images.githubusercontent.com/39201252/116290781-b456bf80-a748-11eb-8a11-cfac871b5156.png" height=200/>](https://nemoanalytics.org/p?l=7e14ad94&g=gad2)[<img src="https://user-images.githubusercontent.com/39201252/116290906-d6504200-a748-11eb-9077-5b864bb4fba1.png" height=200/>](https://nemoanalytics.org/p?l=c4416938&g=gad2)
 
 
@@ -157,7 +159,7 @@ Note, individual tools created by or used by the BICCN consortium are accessible
 #### Analysis and code for main figure			
 [Panel 2a](https://github.com/mukamel-lab/BICCN-Mouse-MOp/tree/master/flagship_fig2a)	
 
-Panel 2b:	Dendrogram reproduced from companion paper (Bakken et al. 2020)		
+Panel 2b: Dendrogram reproduced from companion paper (Bakken et al. 2020)		
 
 [Panel 2c](http://data.nemoarchive.org/publication_release/Lein_2020_M1_study_analysis/Transcriptomics/sncell/10X/human/processed/analysis/analysis/M1/flagship/dendrogram_barplots/)
 
