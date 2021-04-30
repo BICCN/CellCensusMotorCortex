@@ -153,7 +153,7 @@ Note, individual tools created by or used by the BICCN consortium are accessible
 | 2b-g | 10x v3 sequencing data from macaque |  | [NEMO](https://assets.nemoarchive.org/dat-p6957r7) |
 | 2b-g | Transcriptomic characterization of cell types in human brain: 10x nuclei v3  (10X159-1 through 10x160-8) | [Project Summary](https://knowledge.brain-map.org/data/3XNMGDZAHJR0CGM2Z5V/summary) | [NEMO](https://assets.nemoarchive.org/dat-ci7q9k4) |
 | 2b-g | A Molecular and Cellular Atlas of the Marmoset Brain - 10x v3  (bi005_m1, bi006_m1) | [Project Summary](https://knowledge.brain-map.org/data/5O3GAQDWZK5ZM3IMWWB/summary) | [NEMO](https://assets.nemoarchive.org/dat-7jxfmkh) |
-| 2b-g | Transcriptomic cell types in the mouse brain: 10x nuclei v3  (files with prefix pBICCNsMMrMOp) | [Project Summary](https://knowledge.brain-map.org/data/XYIBR6F9LRSZWF50CTQ/summary) | [NEMO](https://assets.nemoarchive.org/nemo:dat-j3xxa7z) |
+| 2b-g | Transcriptomic cell types in the mouse brain: 10x nuclei v3  (files with prefix pBICCNsMMrMOp) | [Project Summary](https://knowledge.brain-map.org/data/XYIBR6F9LRSZWF50CTQ/summary) | [NEMO](https://assets.nemoarchive.org/dat-j3xxa7z) |
 
 	
 #### Analysis and code for main figure			
