@@ -21,7 +21,7 @@ A series of companion studies supported the findings in this manuscript.
 - [Molecular, spatial and projection diversity of neurons in primary motor cortex revealed by in situ single-cell transcriptomics, Zhang et al, 2020](https://www.biorxiv.org/content/10.1101/2020.06.04.105700v1)
 - [Phenotypic variation of transcriptomic cell types in mouse motor cortex, Scala et al, 2020](https://www.nature.com/articles/s41586-020-2907-3) 
 - [Cellular Anatomy of the Mouse Primary Motor Cortex, Munoz-Casteneda, 2020](https://www.biorxiv.org/content/10.1101/2020.10.02.323154v1)
-- [Genetic dissection of glutamatergic neuron subpopulations and developmental trajectories in the cerebral cortex, Matho et al,2020](www.biorxiv.org/content/10.1101/2020.04.22.054064v1)
+- [Genetic dissection of glutamatergic neuron subpopulations and developmental trajectories in the cerebral cortex, Matho et al,2020](https://www.biorxiv.org/content/10.1101/2020.04.22.054064v1)
 - [DNA Methylation Atlas of the Mouse Brain at Single-Cell Resolution, Liu et al., 2020](https://www.biorxiv.org/content/10.1101/2020.04.30.069377v1) 
 - [Epigenomic Diversity of Cortical Projection Neurons in the Mouse Brain, Zhang et al., 2020](https://www.biorxiv.org/content/10.1101/2020.04.01.019612v1) 
 - [An atlas of gene regulatory elements in Adult Mouse Cerebrum, Li et al, 2020](https://www.biorxiv.org/content/10.1101/2020.05.10.087585v1) 
